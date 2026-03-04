@@ -9,7 +9,7 @@ const allProjectsSorted = allProjects.sort((a, b) => {
   return aLast > bLast ? 1 : -1;
 });
 ---
-
+<div id="navSide"></div>
 <div class="project-grid">
   {
     allProjectsSorted.map((project) => {
@@ -35,10 +35,35 @@ const allProjectsSorted = allProjects.sort((a, b) => {
   }
 </div>
 
+<script>
+  window.addEventListener('scroll', function() {
+  const navbar = document.getElementById('navSide');
+  if (window.scrollY > 1000) // Shows after 100px of scrolling
+  { 
+    navbar?.classList.add('show');
+  } else {
+    navbar?.classList.remove('show');
+  }
+});
+</script>
+
 <style>
+  #navSide{
+    position: fixed;
+    top: 10%;
+    left: -410px;
+    width: 300px;
+    height: 80vh;
+    background-color: var(--color-accent-b);
+    transition: left 0.5s;
+  }#navSide.show { left: 20px; }
+
   .project-grid {
-    max-width: var(--size-page-width);
-    width: calc(100% - 2 * var(--size-page-margin));
+    /* max-width: 1000px; */
+    /* width: calc(100% - 8 * var(--size-page-margin)); */
+    width: 100%;
+    padding: 20px;
+    padding-left: 350px;
     display: grid;
     align-items: top;
     grid-template-columns: 1fr;
@@ -47,13 +72,22 @@ const allProjectsSorted = allProjects.sort((a, b) => {
   }
   @media screen and (min-width: 450px) {
     .project-grid {
-      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
     }
   }
 
+  @media (max-width: 850px) {
+    #navSide{ display: none; }
+    .project-grid{ 
+      padding-left: 20px; 
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    }
+    
+  }
   .project-card {
     /* max-width: 600px; */
     position: relative;
+    color: var(--color-accent-b);
   }
   .project-card:hover,
   .project-card:focus-within {
@@ -67,6 +101,7 @@ const allProjectsSorted = allProjects.sort((a, b) => {
     height: auto;
     aspect-ratio: 192 / 126;
     object-fit: cover;
+    background-color: var(--color-accent-a);
   }
   .person-name {
     font-size: 1.5rem;
@@ -97,5 +132,16 @@ const allProjectsSorted = allProjects.sort((a, b) => {
   .project-title:focus-visible {
     outline: none;
     box-shadow: none;
+  }
+
+  @media (max-width: 850px) {
+    .navSide{
+      display: none;
+    }
+
+    /* .project-grid{
+      max-width: var(--size-page-width);
+      width: calc(100% - 2 * var(--size-page-margin));
+    } */
   }
 </style>
