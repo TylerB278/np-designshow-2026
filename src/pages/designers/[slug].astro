@@ -34,7 +34,7 @@ if (!entry) {
         src={entry.data.headshot}
         alt={entry.data.name}
         transition:name={`photo-${slug}`}
-        width={750}
+        width={550}
       />
     </div>
     <div class="bio-content-wrapper">
@@ -86,6 +86,13 @@ if (!entry) {
     font-weight: 700;
     font-size: 3rem;
   }
+  
+  .bio-image-wrapper {
+    width: fit-content;
+    align-self: center;
+    margin-top: 1rem;
+  }
+
   .bio-text {
     max-width: 650px;
     font-size: 1rem;
@@ -97,7 +104,7 @@ if (!entry) {
     flex-direction: column;
     justify-content: space-between;
     gap: var(--size-page-margin);
-    padding: 2rem 0;
+    padding: 1rem 0;
   }
   .bio-info-group {
     line-height: 1.5;
@@ -107,7 +114,8 @@ if (!entry) {
   .bio-info-group p {
     font-family: "rustica", serif;
   }
-  @media screen and (min-width: 620px) {
+
+  @media screen and (min-width: 900px) {
     .bio-container {
       flex-direction: row;
       margin: var(--size-page-margin) 0;

@@ -13,8 +13,13 @@ import { Image } from "astro:assets";
       <a class="alternating-link" href="/designers"
         ><span>Designers</span></a
       >
+      <p>•</p>
       <a class="alternating-link" href="/about"
         ><span>About</span></a
+      >
+      <p>•</p>
+      <a class="alternating-link" href="/about"
+        ><span>Instagram</span></a
       >
     </div>
   </nav>
@@ -24,8 +29,11 @@ import { Image } from "astro:assets";
   nav {
     display: flex;
     justify-content: space-between;
+    background-color: var(--color-accent-b);
+    color: var(--color-background);
     align-items: center;
     font-size: clamp(1.125rem, 2vw, 1.5rem);
+    font-weight: 700;
     padding-left: 1em;
     padding-right: 1em;
   }
@@ -33,9 +41,9 @@ import { Image } from "astro:assets";
     display: flex;
     gap: 0.5em;
   }
-  a {
+  a, p {
     display: block;
-    font-family: "Sligoil", serif;
+    font-family: "rustica", serif;
     padding: 0.5rem;
     text-decoration: none;
   }

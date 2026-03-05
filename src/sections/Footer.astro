@@ -7,9 +7,9 @@ import BookLink from "../components/BookLink.astro";
 <footer>
   <nav class="footer-nav">
     <div class="nav-left">
-      <a href="/" class="rev-alternating-link"
+      <!-- <a href="/" class="rev-alternating-link"
         >SUNY New Paltz<br />Design <span class="star-after">Show</span> 2025</a
-      >
+      > -->
     </div>
     <div class="nav-right">
       <a class="star-after alternating-link" href="/designers">Designers</a>
@@ -31,11 +31,12 @@ import BookLink from "../components/BookLink.astro";
 
   <style>
     footer {
-      border-top: 1px solid var(--color-accent-a);
       width: 100%;
       display: flex;
       flex-direction: column;
       align-items: center;
+      background-color: var(--color-accent-b);
+      color: var(--color-background);
     }
     .footer-nav {
       display: flex;
@@ -44,11 +45,11 @@ import BookLink from "../components/BookLink.astro";
       justify-content: center;
       align-items: center;
       gap: 2rem;
-      padding: 2rem 0rem;
+      padding: 1rem 0rem;
       text-align: center;
       width: 100%;
       max-width: calc(var(--size-page-width) + 2 * var(--size-page-margin));
-      padding: var(--size-page-margin);
+      /* padding: var(--size-page-margin); */
     }
     .nav-right {
       display: flex;
