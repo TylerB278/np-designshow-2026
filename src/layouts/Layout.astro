@@ -19,20 +19,20 @@ import { ClientRouter } from "astro:transitions";
     <link rel="icon" type="image/png" href="/favicon.png" />
     <meta name="generator" content={Astro.generator} />
     <title>{props.pageTitle || ""} | SUNY New Paltz Design Show 2025</title>
-    <link rel="stylesheet" href="https://use.typekit.net/jhu1ufw.css" />
+    <link rel="stylesheet" href="https://use.typekit.net/lji8deo.css">
     <ClientRouter />
   </head><body>
     <Nav />
     <main>
       <slot />
-      <img class="bg-img" src={bgRibbon.src} alt="" />
+      <!-- <img class="bg-img" src={bgRibbon.src} alt="" /> -->
     </main>
     <Footer />
   </body>
 </html>
 <style is:global>
   @font-face {
-    font-family: "Sligoil";
+    /* font-family: "Sligoil";
     src:
       url("/fonts/sligoil/Sligoil-Micro.woff2") format("woff2"),
       url("/fonts/sligoil/Sligoil-Micro.woff") format("woff");
@@ -42,7 +42,7 @@ import { ClientRouter } from "astro:transitions";
     font-family: "Compagnon";
     src:
       url("/fonts/compagnon/Compagnon-Roman.woff2") format("woff2"),
-      url("/fonts/compagnon/Compagnon-Roman.woff") format("woff");
+      url("/fonts/compagnon/Compagnon-Roman.woff") format("woff"); */
   }
 
   :root {
@@ -55,7 +55,7 @@ import { ClientRouter } from "astro:transitions";
     --size-page-margin: 2rem;
   }
   p {
-    font-family: "aktiv-grotesk", sans-serif;
+    font-family: "Rustica", sans-serif;
     font-weight: 400;
     font-style: normal;
   }
@@ -65,48 +65,13 @@ import { ClientRouter } from "astro:transitions";
   html {
     font-size: 16px;
     background-color: var(--color-background);
-    color: white;
+    color: var(--color-accent-b);
   }
 
   .big-header {
     font-size: 4rem;
-    font-family: "Sligoil", serif;
-    font-weight: 400;
-  }
-  .star-after {
-    position: relative;
-    display: inline-block;
-    padding-right: 0.5em;
-    text-decoration: inherit;
-  }
-
-  .star-after::after {
-    content: "* ";
-    position: absolute;
-    right: 0;
-    text-decoration: inherit;
-  }
-
-  .star-after-inline {
-    display: inline;
-    padding-right: 0;
-  }
-
-  .star-after-inline::after {
-    right: -0.6em;
-  }
-  .star-before {
-    position: relative;
-    display: inline-block;
-    padding-left: 0.5em;
-    text-decoration: inherit;
-  }
-
-  .star-before::before {
-    content: " *";
-    position: absolute;
-    left: 0;
-    text-decoration: inherit;
+    font-family: "Rustica", serif;
+    font-weight: 700;
   }
 
   main {
@@ -114,7 +79,7 @@ import { ClientRouter } from "astro:transitions";
     flex-direction: column;
     align-items: center;
     position: relative;
-    padding-top: 3rem;
+    /* padding-top: 3rem; */
     padding-bottom: 3rem;
   }
   .bg-img {
@@ -130,11 +95,11 @@ import { ClientRouter } from "astro:transitions";
   }
 
   .alternating-link {
-    font-family: "Sligoil", serif;
+    font-family: "Rustica", serif;
     --color-link-highlight: var(--color-accent-c);
   }
   .rev-alternating-link {
-    font-family: "Sligoil", serif;
+    font-family: "Rustica", serif;
     --color-link-highlight: var(--color-accent-a);
   }
   .alternating-link:nth-of-type(even) {

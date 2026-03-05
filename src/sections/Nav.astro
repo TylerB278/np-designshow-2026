@@ -11,10 +11,10 @@ import { Image } from "astro:assets";
     </a>
     <div class="right-group">
       <a class="alternating-link" href="/designers"
-        ><span class="star-after">Designers</span></a
+        ><span>Designers</span></a
       >
       <a class="alternating-link" href="/about"
-        ><span class="star-after">About</span></a
+        ><span>About</span></a
       >
     </div>
   </nav>
@@ -26,7 +26,8 @@ import { Image } from "astro:assets";
     justify-content: space-between;
     align-items: center;
     font-size: clamp(1.125rem, 2vw, 1.5rem);
-    padding: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
   }
   .right-group {
     display: flex;
@@ -43,9 +44,9 @@ import { Image } from "astro:assets";
     background-color: rgba(255, 255, 255, 0.2);
   }
   .nav-logo {
-    width: clamp(150px, 30vw, 250px);
+    width: clamp(100px, 22vw, 150px);
   }
   header {
-    border-bottom: 1px solid var(--color-accent-a);
+    /* border-bottom: 1px solid var(--color-accent-a); */
   }
 </style>

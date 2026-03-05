@@ -34,7 +34,7 @@ if (!entry) {
         src={entry.data.headshot}
         alt={entry.data.name}
         transition:name={`photo-${slug}`}
-        width={450}
+        width={750}
       />
     </div>
     <div class="bio-content-wrapper">
@@ -56,21 +56,20 @@ if (!entry) {
         <p class="bio-text">{entry.data.bio}</p>
         <!-- <ArrowButton href="" color="accent-a">asdasd</ArrowButton> -->
       </div>
-
-      <ButtonGroup>
-        <Button href={"/projects/" + slugify(entry.data.title)} color="accent-a"
-          ><span class="star-after">Thesis Project</span></Button
-        >
-        {
-          entry.data.portfolio && (
-            <Button href={entry.data.portfolio} color="accent-c">
-              <span class="star-after">Portfolio Website</span>
-            </Button>
-          )
-        }
-      </ButtonGroup>
     </div>
   </div>
+  <ButtonGroup>
+    <Button href={"/projects/" + slugify(entry.data.title)} color="accent-a"
+      ><span class="star-after">Thesis Project</span></Button
+    >
+    {
+      entry.data.portfolio && (
+        <Button href={entry.data.portfolio} color="accent-c">
+          <span class="star-after">Portfolio Website</span>
+        </Button>
+      )
+    }
+  </ButtonGroup>
 </Layout>
 
 <style>
@@ -83,12 +82,13 @@ if (!entry) {
   }
 
   .bio-name {
-    font-family: "Sligoil", serif;
-    font-weight: 400;
+    font-family: "rustica", serif;
+    font-weight: 700;
     font-size: 3rem;
   }
   .bio-text {
-    font-size: 1.25rem;
+    max-width: 650px;
+    font-size: 1rem;
     line-height: 1.6;
     margin-top: 2rem;
   }
@@ -105,7 +105,7 @@ if (!entry) {
     margin-top: 2rem;
   }
   .bio-info-group p {
-    font-family: "Sligoil", serif;
+    font-family: "rustica", serif;
   }
   @media screen and (min-width: 620px) {
     .bio-container {
@@ -113,7 +113,6 @@ if (!entry) {
       margin: var(--size-page-margin) 0;
     }
     .bio-text {
-      padding-left: 2rem;
       padding-right: 1rem;
     }
     .bio-image-wrapper {
