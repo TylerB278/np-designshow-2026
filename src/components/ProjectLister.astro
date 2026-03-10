@@ -58,7 +58,7 @@ const allProjectsSorted = allProjects.sort((a, b) => {
 <style>
   .contain{
     display: grid;
-    grid-template-columns: 200px 1fr;
+    grid-template-columns: 180px 1fr;
     width: 100%;
     border-top: 5px solid var(--color-accent-b);
   }
@@ -107,9 +107,10 @@ const allProjectsSorted = allProjects.sort((a, b) => {
     }
   }
 
-  @media (max-width: 850px) {
-    #navSide{ display: none; }
+  @media (max-width: 1000px) {
+    #sideBar{ display: none; }
     .project-grid{ 
+      width: 100vw;
       padding-left: 20px; 
       grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     }
