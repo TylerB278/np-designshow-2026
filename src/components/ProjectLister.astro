@@ -9,30 +9,38 @@ const allProjectsSorted = allProjects.sort((a, b) => {
   return aLast > bLast ? 1 : -1;
 });
 ---
-<div id="navSide"></div>
-<div class="project-grid">
-  {
-    allProjectsSorted.map((project) => {
-      const projectSlug = slugify(project.data.title);
-      const projectUrl = `/projects/${projectSlug}/`;
-      return (
-        <article class="project-card">
-          <Image
-            transition:name={`thumb-${projectSlug}`}
-            width={1000}
-            quality={60}
-            class="project-image"
-            src={project.data.thumbnail.src}
-            alt=""
-          />
-          <a class="project-title" href={projectUrl}>
-            {project.data.title}
-          </a>
-          <p class="person-name">{project.data.name}</p>
-        </article>
-      );
-    })
-  }
+<div class="contain">
+  <div id="sideBar">
+    <div class="midNav">
+      <a class="navItm" href="/designers">Designers</a>
+      <a class="navItm" href="/about">About</a>
+      <a class="navItm" href="">Instagram</a>
+    </div>
+  </div>
+  <div class="project-grid">
+    {
+      allProjectsSorted.map((project) => {
+        const projectSlug = slugify(project.data.title);
+        const projectUrl = `/projects/${projectSlug}/`;
+        return (
+          <article class="project-card">
+            <Image
+              transition:name={`thumb-${projectSlug}`}
+              width={1000}
+              quality={60}
+              class="project-image"
+              src={project.data.thumbnail.src}
+              alt=""
+            />
+            <a class="project-title" href={projectUrl}>
+              {project.data.title}
+            </a>
+            <p class="person-name">{project.data.name}</p>
+          </article>
+        );
+      })
+    }
+  </div>
 </div>
 
 <script>
@@ -48,22 +56,45 @@ const allProjectsSorted = allProjects.sort((a, b) => {
 </script>
 
 <style>
-  #navSide{
-    position: fixed;
-    top: 10%;
-    left: -410px;
-    width: 300px;
-    height: 80vh;
+  .contain{
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    width: 100%;
+    border-top: 5px solid var(--color-accent-b);
+  }
+  #sideBar{
     background-color: var(--color-accent-b);
-    transition: left 0.5s;
-  }#navSide.show { left: 20px; }
-
+    contain: paint;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .midNav{
+    display: flex;
+    position: sticky;
+    top: 100px;
+    flex-flow: column wrap;
+    gap: 10px;
+    transform: rotate(180deg);
+  }
+  .navItm{
+    color: var(--color-background);
+    writing-mode: vertical-rl;
+    text-align: center;
+    background-color: var(--color-accent-a);
+    width: fit-content;
+    padding: 1rem;
+    padding-left: 3rem;
+    margin-left: -2rem;
+    transition: all 0.5s;
+    font-size: 32px;
+    text-decoration: none;
+    font-weight: 700;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+  } .navItm:hover{ margin-left: 0rem; }
   .project-grid {
-    /* max-width: 1000px; */
-    /* width: calc(100% - 8 * var(--size-page-margin)); */
     width: 100%;
     padding: 20px;
-    padding-left: 350px;
     display: grid;
     align-items: top;
     grid-template-columns: 1fr;
