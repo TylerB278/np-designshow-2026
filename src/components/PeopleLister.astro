@@ -47,6 +47,21 @@ const peopleSorted = people.sort((a, b) => {
     width: 100%;
   }
 
+  @media (max-width: 1170px){
+    .people-card:nth-child(even){
+      transform: translateY(60px);
+    }
+  }
+
+  @media (min-width: 1171px){
+    .people-card:nth-child(3n + 0){
+      transform: translateY(80px);
+    }
+    .people-card:nth-child(3n - 1){
+      transform: translateY(40px);
+    }
+  }
+
   .people-card {
     display: flex;
     flex-direction: column;

@@ -51,6 +51,7 @@ import { ClientRouter } from "astro:transitions";
     --color-accent-a: #FF4848;
     --color-accent-b: #913741;
     --color-accent-c: #672480;
+    --color-accent-d: #e1fe4c;
     --size-page-width: 1300px;
     --size-page-margin: 2rem;
   }
@@ -96,17 +97,17 @@ import { ClientRouter } from "astro:transitions";
 
   .alternating-link {
     font-family: "Rustica", serif;
-    --color-link-highlight: var(--color-accent-a);
+    --color-link-highlight: var(--color-accent-b);
   }
   .rev-alternating-link {
     font-family: "Rustica", serif;
-    --color-link-highlight: var(--color-accent-a);
+    --color-link-highlight: var(--color-accent-b);
   }
   .alternating-link:nth-of-type(even) {
-    --color-link-highlight: var(--color-accent-a);
+    --color-link-highlight: var(--color-accent-b);
   }
   .rev-alternating-link:nth-of-type(even) {
-    --color-link-highlight: var(--color-accent-a);
+    --color-link-highlight: var(--color-accent-b);
   }
 
   .alternating-link:hover,

@@ -35,7 +35,7 @@ import BookLink from "../components/BookLink.astro";
       display: flex;
       flex-direction: column;
       align-items: center;
-      background-color: var(--color-accent-b);
+      background-color: var(--color-accent-a);
       color: var(--color-background);
       margin-top: 1rem;
     }
@@ -44,23 +44,23 @@ import BookLink from "../components/BookLink.astro";
       flex-wrap: wrap;
       flex-direction: column;
       justify-content: center;
-      align-items: center;
+      align-self: flex-end;
       gap: 2rem;
       padding: 1rem;
       text-align: center;
-      width: 100%;
       max-width: calc(var(--size-page-width) + 2 * var(--size-page-margin));
       /* padding: var(--size-page-margin); */
     }
     .nav-right {
       display: flex;
-      gap: 1rem;
+      gap: 2rem;
+      padding-right: 1rem;
     }
 
     .footer-nav a {
       font-size: clamp(1.125rem, 2vw, 1.5rem);
       text-decoration: none;
-      font-family: "Sligoil", serif;
+      font-family: "Rustica", serif;
     }
 
     .footer-img {

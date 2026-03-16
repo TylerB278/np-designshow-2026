@@ -12,9 +12,9 @@ const allProjectsSorted = allProjects.sort((a, b) => {
 <div class="contain">
   <div id="sideBar">
     <div class="midNav">
-      <a class="navItm" href="/designers">Designers</a>
-      <a class="navItm" href="/about">About</a>
-      <a class="navItm" href="">Instagram</a>
+      <a class="navItm" href="/designers" style=" z-index: 11;">Designers</a>
+      <a class="navItm" href="/about" style=" z-index: 12;">About</a>
+      <a class="navItm" href="" style=" z-index: 13;">Instagram</a>
     </div>
   </div>
   <div class="project-grid">
@@ -58,30 +58,35 @@ const allProjectsSorted = allProjects.sort((a, b) => {
 <style>
   .contain{
     display: grid;
-    grid-template-columns: 180px 1fr;
+    grid-template-columns: 150px 1fr;
     width: 100%;
-    border-top: 5px solid var(--color-accent-b);
+    margin-bottom: -2rem;
   }
   #sideBar{
-    background-color: var(--color-accent-b);
+    display: flex;
+    justify-content: flex-end;
+    background-color: var(--color-accent-a);
     contain: paint;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 20px;
+    width: 120px;
   }
   .midNav{
     display: flex;
+    justify-content: flex-end;
+    width: fit-content;
+    height: fit-content;
     position: sticky;
-    top: 100px;
+    top: 20px;
     flex-flow: column wrap;
-    gap: 10px;
+    align-content: flex-start;
+    gap: 20px;
     transform: rotate(180deg);
   }
   .navItm{
     color: var(--color-background);
+    background-color: #fdfff400;
     writing-mode: vertical-rl;
     text-align: center;
-    background-color: var(--color-accent-a);
-    width: fit-content;
     padding: 1rem;
     padding-left: 3rem;
     margin-left: -2rem;
@@ -91,7 +96,15 @@ const allProjectsSorted = allProjects.sort((a, b) => {
     font-weight: 700;
     border-bottom-right-radius: 20px;
     border-top-right-radius: 20px;
-  } .navItm:hover{ margin-left: 0rem; }
+  } 
+  .navItm:hover{ transform: translateX(15px); color: var(--color-accent-b); background-color: var(--color-background); }
+  .navItm:after{
+    positon: absolute;
+    left: 0px;
+    background-color: var(--color-accent-b);
+    width: 100px;
+    height: 100px;
+  }
   .project-grid {
     width: 100%;
     padding: 20px;
@@ -137,10 +150,11 @@ const allProjectsSorted = allProjects.sort((a, b) => {
   }
   .person-name {
     font-size: 1.5rem;
-    font-family: "Sligoil", serif;
+    font-family: "Rustica", serif;
+    font-weight: 600;
   }
   .project-title {
-    font-family: "Compagnon", monospace;
+    font-family: "Rustica", monospace;
     font-size: 1.25rem;
     text-decoration: none;
     text-wrap: balance;
