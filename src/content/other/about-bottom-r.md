@@ -1,27 +1,32 @@
-### Thesis Show Branding Team
+### Design Show 26 Branding Team
 
-- Caleigh Addis
-- Olivia Hansen
-- Daniella Rivera
-- Madison Tripi
+- Tyler Boggi
+- Christian Schaible
+- Cindy Shochat
+- Faith Wilson
+- Xindha Yaeger
 
-### Thesis Show Website Design
+### Website Design & Development
 
-- Caleigh Addis
+- Tyler BOggi
 
-### Print Catalog and Photography
+### Printed Catalog
 
-- Madison Tripi
+- Xindha Yaeger
 
-### Social Media and assets
+### Social Media
 
-- Olivia Hansen
+- Faith Wilson
 
-### Posters and Signage
+### Posters and Brand Coordination
 
-- Daniella Rivera
+- Christian Schaible
 
-### Site Development
+### Posters and Brand Coordination
+
+- Cindy Shochat
+
+### Website Template Development
 
 - Kristoff Lalicki
 
