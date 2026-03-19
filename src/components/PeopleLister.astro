@@ -14,30 +14,40 @@ const peopleSorted = people.sort((a, b) => {
   {
     peopleSorted.map((person) => {
       return (
-        <a class="people-card" href={"/designers/" + person.id + "/"}>
-          <Image
-            class="people-card-image"
-            src={person.data.headshot}
-            alt={""}
-            width={450}
-            transition:name={`photo-${person.id}`}
-          />
-          <Image
-            class="people-card-image-alt"
-            src={person.data.headshotAlt}
-            alt={""}
-            width={600}
-          />
-          <p class="people-card-name">
-            <span class="star-after star-after-inline">{person.data.name}</span>
-          </p>
-        </a>
+        <div class="person-contain">
+          <a class="people-card" href={"/designers/" + person.id + "/"}>
+            <div class="portrait">
+              <Image
+                class="people-card-image"
+                src={person.data.headshot}
+                alt={""}
+                width={450}
+                transition:name={`photo-${person.id}`}
+              />
+              <Image
+                class="people-card-image-alt"
+                src={person.data.headshotAlt}
+                alt={""}
+                width={600}
+              />
+            </div>
+            <p class="people-card-name">
+              <span class="star-after star-after-inline">{person.data.name}</span>
+            </p>
+          </a>
+        </div>
       );
     })
   }
 </div>
 
 <style>
+  .person-contain{ } 
+
+  .portrait{
+    background-color: var(--color-accent-b);
+  }
+
   .people-list {
     display: grid;
     grid-template-columns: 1fr;
@@ -73,6 +83,7 @@ const peopleSorted = people.sort((a, b) => {
   .people-card-image-alt {
     width: 100%;
     height: auto;
+    transform-origin: bottom center;
   }
   .people-card-image-alt {
     position: absolute;
@@ -80,10 +91,17 @@ const peopleSorted = people.sort((a, b) => {
     top: 0;
     opacity: 0;
   }
-  .people-card:hover .people-card-image-alt,
-  .people-card:focus-visible .people-card-image-alt {
+  .person-contain:hover .people-card-image-alt,
+  .person-contain:focus-visible .people-card-image-alt {
     opacity: 1;
+    transform: scale(115%);
+    transition: transform 0.3s;
   }
+  .person-contain:hover .people-card-image,
+  .person-contain:focus-visible .people-card-image{
+    opacity: 0;
+  }
+
 
   .people-card:hover .people-card-name,
   .people-card:focus-visible .people-card-name {

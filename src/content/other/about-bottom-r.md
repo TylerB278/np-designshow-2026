@@ -8,7 +8,7 @@
 
 ### Website Design & Development
 
-- Tyler BOggi
+- Tyler Boggi
 
 ### Printed Catalog
 

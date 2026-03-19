@@ -10,6 +10,6 @@ The BFA Graphic Design Thesis is a year-long, focused exploration of a topic of 
 
 The Digital Design & Fabrication (DDF) degree prepares students to utilize modern digital fabrication methods in the design and fabrication process. Through an approach that blurs traditional boundaries between art, engineering, design, fabrication, and science, MA students' final work demonstrates a range of advanced manufacturing and fabrication techniques.
 
-## Thanks
+## Additional Thanks
 
 <p class="larger-text">We would like to recognize the individuals who have worked to make this year's design show & its promotion all possible.</>
