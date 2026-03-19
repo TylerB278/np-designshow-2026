@@ -1,5 +1,5 @@
 ---
-name: Daniella Rivera
+name: Sarah Friedlander
 pronouns: she/her
 location: Long Island, NY
 headshot: "headshot_1.jpg"

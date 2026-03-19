@@ -1,5 +1,5 @@
 ---
-name: Celina Sciuto
+name: Ginger Defino
 pronouns: she/her
 location: Poughkeepsie, NY
 headshot: "headshot_1.jpg"

@@ -1,5 +1,5 @@
 ---
-name: Caleigh Addis
+name: Samantha Cooper
 pronouns: she/her
 location: Cortlandt Manor, New York
 headshot: "headshot-1.png"

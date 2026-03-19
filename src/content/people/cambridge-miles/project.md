@@ -1,5 +1,5 @@
 ---
-name: Caia Sullivan
+name: Miles Cambridge
 pronouns: she/her
 location: New City, NY
 headshot: "headshot_1.jpg"

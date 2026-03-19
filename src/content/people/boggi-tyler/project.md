@@ -1,5 +1,5 @@
 ---
-name: Arianna Moore
+name: Tyler Boggi
 pronouns: she/her
 location: New Paltz, NY
 headshot: "headshot_1.jpg"

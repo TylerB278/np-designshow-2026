@@ -1,9 +1,9 @@
 ---
-name: Cleo Goldman
+name: Raquel Ferraro
 pronouns: she/her
 location: Waterford, NY
-headshot: "headshot_1.jpg"
-headshotAlt: "headshot_2.jpg"
+headshot: "headshot_1.png"
+headshotAlt: "headshot_2.png"
 portfolio: https://cleogoldman.com
 bio: |
   Cleo is a graduating senior from Waterford, NY with a passion for thoughtful, people-centered design. Their work spans user experience, branding, and illustration—three areas that come together in their thesis project, which celebrates connection and creativity. Cleo draws constant inspiration from their many favorite artists and designers, often changing their visual style multiple times in a single session just to see what sticks. In their spare time Cleo enjoys hanging out with friends, spending time outside and finding new restaurants to try.

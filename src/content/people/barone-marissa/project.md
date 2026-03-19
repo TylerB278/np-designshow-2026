@@ -1,5 +1,5 @@
 ---
-name: Alyssa DiBartolo
+name: Marissa Barone
 pronouns: she/her
 location: Staatsburg, NY
 headshot: "headshot_1.jpg"

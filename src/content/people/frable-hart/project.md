@@ -1,5 +1,5 @@
 ---
-name: Cotye Allen
+name: Hart Frable
 pronouns: they/them
 location: Warrensburg, NY
 headshot: "headshot_1.jpg"
