@@ -45,7 +45,11 @@ const peopleSorted = people.sort((a, b) => {
   .person-contain{ } 
 
   .portrait{
-    background-color: var(--color-accent-b);
+    /* outline-width: 3px;
+    outline-bottom-width: 0px;
+    outline-style: solid;
+    outline-color: var(--color-accent-a); */
+    background: linear-gradient(var(--color-background), var(--color-accent-a));
   }
 
   .people-list {
@@ -87,6 +91,7 @@ const peopleSorted = people.sort((a, b) => {
   }
   .people-card-image-alt {
     position: absolute;
+    transform: scale(105%);
     left: 0;
     top: 0;
     opacity: 0;

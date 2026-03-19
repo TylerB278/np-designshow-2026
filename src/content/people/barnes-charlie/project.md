@@ -1,5 +1,5 @@
 ---
-name: Allison O'Connor
+name: Charlie Barnes
 pronouns: she/her
 location: Whitesboro, NY
 headshot: "headshot_1.jpg"
