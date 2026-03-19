@@ -2,8 +2,8 @@
 name: Tyler Boggi
 pronouns: she/her
 location: New Paltz, NY
-headshot: "headshot_1.jpg"
-headshotAlt: "headshot_2.jpg"
+headshot: "headshot_1.png"
+headshotAlt: "headshot_2.png"
 portfolio: https://ariadesign.myportfolio.com
 bio: |
   Arianna Moore is a graduation senior from SUNY New Paltz. Her design skills include print design, brand design, and illustration and are showcased in their thesis project. Her dedication and design skills are seen throughout her thesis and other designs. 
