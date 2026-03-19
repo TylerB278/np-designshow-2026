@@ -1,5 +1,5 @@
 ---
-name: Emely Moncion
+name: Maddie Hickey
 pronouns: she/her
 location: Bronx, NY | Dominican Republic
 headshot: "headshot_1.jpg"

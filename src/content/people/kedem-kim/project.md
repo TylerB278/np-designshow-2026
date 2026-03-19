@@ -1,5 +1,5 @@
 ---
-name: Elizabeth Blasco
+name: Kim Kedem
 pronouns: she/her
 location: Setauket, NY
 headshot: "headshot_1.jpg"

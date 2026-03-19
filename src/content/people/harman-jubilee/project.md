@@ -1,5 +1,5 @@
 ---
-name: Dylan Yu
+name: Jubilee Harman
 pronouns: he/him
 location: Queens, NY
 headshot: "headshot_1.jpg"

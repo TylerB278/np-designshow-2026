@@ -1,5 +1,5 @@
 ---
-name: Leigh Joiner
+name: Kylee Henry
 pronouns: they/them
 location: Queensbury, NY
 headshot: "headshot_1.jpg"

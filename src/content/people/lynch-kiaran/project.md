@@ -1,5 +1,5 @@
 ---
-name: Madison Tripi
+name: Kiaran Lynch
 pronouns: she/her
 location: Massapequa, NY
 headshot: "headshot_1.jpg"

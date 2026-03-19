@@ -1,5 +1,5 @@
 ---
-name: Jazmyne Daily-Simpson
+name: Kristen Sauer
 pronouns: she/her
 location: Babylon, New York
 headshot: "headshot_1.jpg"

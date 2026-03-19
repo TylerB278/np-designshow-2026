@@ -1,5 +1,5 @@
 ---
-name: Jake Pennisi
+name: Michael Losquardo
 pronouns: he/him
 location: Ronkonkoma, NY
 headshot: "headshot_1.jpg"

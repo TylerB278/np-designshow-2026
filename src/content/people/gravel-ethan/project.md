@@ -1,5 +1,5 @@
 ---
-name: Danielle Bunn
+name: Ethan Gravel
 pronouns: she/her
 location: Pleasant Valley, NY
 headshot: "headshot_1.jpg"

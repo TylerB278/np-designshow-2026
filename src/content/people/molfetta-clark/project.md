@@ -1,5 +1,5 @@
 ---
-name: Melina Devine
+name: Clark Molfetta
 pronouns: she/her
 location: New Paltz, NY
 headshot: "headshot_1.jpg"

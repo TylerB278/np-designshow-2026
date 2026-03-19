@@ -1,5 +1,5 @@
 ---
-name: Jess Soledad
+name: Angelina Savino
 pronouns: they/she/he
 location: Hampton Bays, NY
 headshot: "headshot_1.jpg"
