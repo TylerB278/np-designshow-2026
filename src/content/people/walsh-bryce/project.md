@@ -1,5 +1,5 @@
 ---
-name: Olivia Wilson
+name: Bryce Walsh
 pronouns: she/her
 location: Rockland County, NY
 headshot: "headshot_1.jpg"

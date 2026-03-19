@@ -1,5 +1,5 @@
 ---
-name: Kaylah Phillips
+name: Cindy Shochat
 pronouns: she/her
 location: Wappingers Falls, NY
 headshot: "headshot_1.jpg"

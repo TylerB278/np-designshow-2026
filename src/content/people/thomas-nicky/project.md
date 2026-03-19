@@ -1,5 +1,5 @@
 ---
-name: Nathaniel J Martinez
+name: Nicky Thomas
 pronouns: he/him
 location: Earth, Milky Way
 headshot: "headshot_1.jpg"

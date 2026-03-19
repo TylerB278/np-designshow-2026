@@ -1,5 +1,5 @@
 ---
-name: John DiMaio
+name: Christian Schaible
 pronouns: he/him
 location: Hawthorne, New York
 headshot: "headshot_1.jpg"

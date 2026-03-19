@@ -1,5 +1,5 @@
 ---
-name: Mykros Diaz
+name: Ryan Stucker
 pronouns: he/it
 location: Bronx, NY
 headshot: "headshot_1.jpg"

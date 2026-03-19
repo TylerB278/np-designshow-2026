@@ -1,5 +1,5 @@
 ---
-name: Olivia Hansen
+name: Affan Waheed
 pronouns: she/her
 location: Oneonta, NY
 headshot: "headshot_1.jpg"

@@ -1,5 +1,5 @@
 ---
-name: Rowan Davidson
+name: Xindha Yaeger
 pronouns: she/her
 location: Glens Falls, NY
 headshot: "headshot_1.jpg"

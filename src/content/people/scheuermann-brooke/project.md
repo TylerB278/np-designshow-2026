@@ -1,5 +1,5 @@
 ---
-name: Kat Humphrey
+name: Brooke Scheuermann
 pronouns: she/her
 location: Long Island, New York
 headshot: "headshot_1.jpg"

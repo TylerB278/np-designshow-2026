@@ -1,5 +1,5 @@
 ---
-name: Quinn Bonney
+name: Faith Wilson
 pronouns: she/her
 location: Buffalo, NY
 headshot: "headshot_1.jpg"
