@@ -5,20 +5,14 @@ import { getCollection, getEntry } from "astro:content";
 const allPeople = await getCollection("people");
 import PeopleMarquee from "../components/PeopleMarquee.astro";
 import ProjectLister from "../components/ProjectLister.astro";
+import Placeholder from "../assets/bg-placeholder.png";
 ---
 
 <Layout pageTitle="Home">
   <!-- <PeopleMarquee /> -->
   <section class="welcome">
     <div class="title-box">
-      <h1 class="welcome-title">
-        <span class="star-after"> Design </span>
-        <span class="second-line">
-          Show<span class="narrow-space">{" "}</span><span class="welcome-year"
-            >2025</span
-          >
-        </span>
-      </h1>
+      <Image src={Placeholder} alt="header image" class="headerImg"/>
     </div>
   </section>
   <!-- <PeopleMarquee reverse /> -->
