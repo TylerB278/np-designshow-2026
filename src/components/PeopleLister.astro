@@ -8,6 +8,7 @@ const peopleSorted = people.sort((a, b) => {
   const bLast = b.data.name.split(" ").pop() || "";
   return aLast > bLast ? 1 : -1;
 });
+
 ---
 
 <div class="people-list">
@@ -25,7 +26,7 @@ const peopleSorted = people.sort((a, b) => {
                 transition:name={`photo-${person.id}`}
               />
               <Image
-                class="people-card-image-alt"
+                class={`people-card-image-alt ${person.data.fade}`}
                 src={person.data.headshotAlt}
                 alt={""}
                 width={600}

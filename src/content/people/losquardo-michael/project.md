@@ -1,5 +1,6 @@
 ---
 name: Michael Losquardo
+fade: fade-bottom
 pronouns: he/him
 location: Ronkonkoma, NY
 headshot: "headshot_1.png"
