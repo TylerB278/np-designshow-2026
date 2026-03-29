@@ -2,8 +2,8 @@
 name: Nicky Thomas
 pronouns: he/him
 location: Earth, Milky Way
-headshot: "headshot_1.jpg"
-headshotAlt: "headshot_2.jpg"
+headshot: "headshot_1.png"
+headshotAlt: "headshot_2.png"
 portfolio: https://www.behance.net/natemartinez845
 bio: |
   Nate is a senior graduating this Fall from Suny New Paltz, their design specialties include illustration and layout design, both of which are featured in their thesis project. A creative goal Nate will achieve in the future is to contribute to a story in a studio setting or through freelance work, whether by helping others bring their stories to life or developing their own. What keeps Nate motivated every day is the thought that there’s so much to create, yet so little time.

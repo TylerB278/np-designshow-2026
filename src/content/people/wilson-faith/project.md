@@ -2,8 +2,8 @@
 name: Faith Wilson
 pronouns: she/her
 location: Buffalo, NY
-headshot: "headshot_1.jpg"
-headshotAlt: "headshot_2.jpg"
+headshot: "headshot_1.png"
+headshotAlt: "headshot_2.png"
 portfolio: https://quinnbonney.com
 bio: |
   Quinn is a graduating senior from Buffalo, NY. She's been a lifelong doodler on tests, notebooks, envelopes... skin. She also enjoys scream-singing music in her car, trying interesting combinations in the kitchen, and a good Korean drama. 
