@@ -72,34 +72,34 @@ if (!entry) {
   </ButtonGroup>
   <div class="footContain">
     <div class="botNav">
-      <a class="student">Charlie Barnes</a>
-      <a class="student">Marissa Barone</a>
-      <a class="student">Tyler Boggi</a>
-      <a class="student">Miles Cambridge</a>
-      <a class="student">Samantha Cooper</a>
-      <a class="student">Ginger Defino</a>
-      <a class="student">Raquel Ferraro</a>
-      <a class="student">Hart Frable</a>
-      <a class="student">Sarah Friedlander</a>
-      <a class="student">Ethan Gravel</a>
-      <a class="student">Jubilee Harman</a>
-      <a class="student">Kim Kedem</a>
-      <a class="student">Kylee Henry</a>
-      <a class="student">Maddie Hickey</a>
-      <a class="student">Michael Losquardo</a>
-      <a class="student">Kiaran Lynch</a>
-      <a class="student">Clark Molfetta</a>
-      <a class="student">Kristen Sauer</a>
-      <a class="student">Angelina Savino</a>
-      <a class="student">Christian Schaible</a>
-      <a class="student">Brooke Scheuermann</a>
-      <a class="student">Cindy Shochat</a>
-      <a class="student">Ryan Stucker</a>
-      <a class="student">Nicky Thomas</a>
-      <a class="student">Affan Waheed</a>
-      <a class="student">Bryce Walsh</a>
-      <a class="student">Faith Wilson</a>
-      <a class="student">Xindha Yaeger</a>
+      <a class="student" href="./barnes-charlie">Charlie Barnes</a>
+      <a class="student" href="./barone-marissa">Marissa Barone</a>
+      <a class="student" href="./boggi-tyler">Tyler Boggi</a>
+      <a class="student" href="./cambridge-miles">Miles Cambridge</a>
+      <a class="student" href="./cooper-samantha">Samantha Cooper</a>
+      <a class="student" href="./defino-ginger">Ginger Defino</a>
+      <a class="student" href="./ferraro-raquel">Raquel Ferraro</a>
+      <a class="student" href="./frable-hart">Hart Frable</a>
+      <a class="student" href="./friedlander-sarah">Sarah Friedlander</a>
+      <a class="student" href="./gravel-ethan">Ethan Gravel</a>
+      <a class="student" href="./harman-jubilee">Jubilee Harman</a>
+      <a class="student" href="./kedem-kim">Kim Kedem</a>
+      <a class="student" href="./henry-kylee">Kylee Henry</a>
+      <a class="student" href="./hickey-maddie">Maddie Hickey</a>
+      <a class="student" href="./losquardo-michael">Michael Losquardo</a>
+      <a class="student" href="./lynch-kiaran">Kiaran Lynch</a>
+      <a class="student" href="./molfetta-clark">Clark Molfetta</a>
+      <a class="student" href="./sauer-kristen">Kristen Sauer</a>
+      <a class="student" href="./savino-angelina">Angelina Savino</a>
+      <a class="student" href="./schaible-christian">Christian Schaible</a>
+      <a class="student" href="./scheuermann-brooke">Brooke Scheuermann</a>
+      <a class="student" href="./shochat-cindy">Cindy Shochat</a>
+      <a class="student" href="./stucker-ryan">Ryan Stucker</a>
+      <a class="student" href="./thomas-nicky">Nicky Thomas</a>
+      <a class="student" href="./waheed-affan">Affan Waheed</a>
+      <a class="student" href="./walsh-bryce">Bryce Walsh</a>
+      <a class="student" href="./wilson-faith">Faith Wilson</a>
+      <a class="student" href="./yaeger-xindha">Xindha Yaeger</a>
     </div>
   </div>
 </Layout>
@@ -111,6 +111,10 @@ if (!entry) {
     max-width: var(--size-page-width);
     margin: 0 var(--size-page-margin);
     gap: var(--size-page-margin);
+  }
+
+  .bio-image{
+    background: linear-gradient(var(--color-background), var(--color-accent-a));
   }
 
   .bio-name {
@@ -166,6 +170,7 @@ if (!entry) {
     margin: 0.2rem;
     background-color: var(--color-background);
     color: var(--color-accent-a);
+    text-decoration: none;
   } .student:hover{ background-color: var(--color-accent-a); color: var(--color-background); }
 
   @media screen and (min-width: 900px) {

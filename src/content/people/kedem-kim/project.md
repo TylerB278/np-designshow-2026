@@ -2,8 +2,8 @@
 name: Kim Kedem
 pronouns: she/her
 location: Setauket, NY
-headshot: "headshot_1.jpg"
-headshotAlt: "headshot_2.jpg"
+headshot: "headshot_1.png"
+headshotAlt: "headshot_2.png"
 portfolio: https://elizabethblasco.org
 bio: |
   Elizabeth is a graduating senior with an interest in branding and marketing, and a newfound interest in CAD and digital design. She loves music, movies, and spending time with her friends and family.

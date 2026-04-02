@@ -2,8 +2,8 @@
 name: Marissa Barone
 pronouns: she/her
 location: Staatsburg, NY
-headshot: "headshot_1.jpg"
-headshotAlt: "headshot_2.jpg"
+headshot: "headshot_1.png"
+headshotAlt: "headshot_2.png"
 portfolio: https://alyssadibartolo.com 
 bio: |
   Alyssa is a graduating senior from Staatsburg, NY their design interests are package design and website design and poster design and telling messages of which make an appearance in their thesis project. She hopes to make a career in packaging design but also still be able to do poster/web design as well. In her spare time she loves to watch different TV shows and read as well as spend time with her family and her pets. 

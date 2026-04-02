@@ -37,4 +37,5 @@
 - Keith Ferris, Graphic Design Instructional Support Technician
 - Ben Kellogg, Digital Fabrication Lab Instructional Support Technician
 - Jim Lyons, Jeff Baker, and staff at Print Services
+- Michael Losquardo, Photography Lighting & Post-Production
 

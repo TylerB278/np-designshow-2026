@@ -22,7 +22,7 @@
 
 - Christian Schaible
 
-### Posters and Brand Coordination
+### Photography & Motion Design
 
 - Cindy Shochat
 

@@ -2,8 +2,8 @@
 name: Kylee Henry
 pronouns: they/them
 location: Queensbury, NY
-headshot: "headshot_1.jpg"
-headshotAlt: "headshot_2.jpg"
+headshot: "headshot_1.png"
+headshotAlt: "headshot_2.png"
 portfolio: https://www.behance.net/leighjoiner
 bio: |
   Leigh is a graduating senior whose design specialties include branding and character design, which can be seen in their thesis project. They take inspiration from their love of video games and enjoy listening to Dark Souls boss music to motivate them while they work. In their spare time, Leigh writes fictional stories, bakes sweet treats, and doodles in the margins.

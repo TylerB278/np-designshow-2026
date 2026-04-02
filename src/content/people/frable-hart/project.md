@@ -2,8 +2,8 @@
 name: Hart Frable
 pronouns: they/them
 location: Warrensburg, NY
-headshot: "headshot_1.jpg"
-headshotAlt: "headshot_2.jpg"
+headshot: "headshot_1.png"
+headshotAlt: "headshot_2.png"
 portfolio: https://cotyeallen.com
 bio: |
   Cotye is a graduating senior from Warrensburg, NY, who specializes in design with illustration and user experience. They are inspired by comics, animation, games, and the designs in the worlds that bring them to life. Outside of design, Cotye enjoys drawing for fun, playing Dungeons & Dragons, and voice acting.

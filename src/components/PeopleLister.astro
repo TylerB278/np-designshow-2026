@@ -63,17 +63,17 @@ const peopleSorted = people.sort((a, b) => {
   }
 
   @media (min-width: 791px) and (max-width: 1155px) {
-    .people-card:nth-child(even){
-      transform: translateY(60px);
+    .person-contain:nth-child(even){
+      /* transform: translateY(60px); */
     }
   }
 
   @media (min-width: 1156px){
-    .people-card:nth-child(3n + 0){
-      transform: translateY(80px);
+    .person-contain:nth-child(3n + 0){
+      transform: translateY(120px);
     }
-    .people-card:nth-child(3n - 1){
-      transform: translateY(40px);
+    .person-contain:nth-child(3n - 1){
+      transform: translateY(60px);
     }
   }
 
