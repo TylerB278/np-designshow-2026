@@ -32,10 +32,6 @@
 
 ### Colophon
 
-<!-- This site uses the fonts <span class="fp-sligoil">Sligoil</span> by
-Ariel Martín Pérez from [Velvetyne](https://velvetyne.fr/fonts/sligoil/), <span class="fp-compagnon">Compagnon</span> by Juliette Duhé, Léa Pradine, Valentin Papon, Chloé Lozano, Sébastien Riollier from [Velvetyne](https://velvetyne.fr/fonts/compagnon/), and <span class="fp-activ-grotesk">Aktiv Grotesk</span> from [Dalton Maag](https://www.daltonmaag.com/font-library/aktiv-grotesk.html) via Adobe Fonts. -->
-
-This site uses the fonts **Sligoil** by
-Ariel Martín Pérez from [Velvetyne](https://velvetyne.fr/fonts/sligoil/), **Compagnon** by Juliette Duhé, Léa Pradine, Valentin Papon, Chloé Lozano, Sébastien Riollier from [Velvetyne](https://velvetyne.fr/fonts/compagnon/), and **Aktiv Grotesk** from [Dalton Maag](https://www.daltonmaag.com/font-library/aktiv-grotesk.html). This site is built using [Astro](https://astro.build/).
-
-See the site's source code on [GitHub](https://github.com/klalicki/np-thesis-2025).
+This site uses the fonts **Rustica** from [TipoType](https://tipotype.com/) and **Beastly** by [James Edmondson](https://fonts.adobe.com/designers/james-edmondson) from [OH no Type Co.](https://ohnotype.co/).
+</br>This site is built using [Astro](https://astro.build/).
+</br>See the site's source code on [GitHub](https://github.com/TylerB278/np-designshow-2026).

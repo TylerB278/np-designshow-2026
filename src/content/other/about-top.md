@@ -12,4 +12,4 @@ The Digital Design & Fabrication (DDF) degree prepares students to utilize moder
 
 ## Additional Thanks
 
-<p class="larger-text">We would like to recognize the individuals who have worked to make this year's design show & its promotion all possible.</>
+<p class="larger-text">We would like to recognize the individuals who have worked to make this year's design show & its promotion all possible.</p>

@@ -1,5 +1,6 @@
 ---
 name: Charlie Barnes
+fade: left
 pronouns: she/her
 location: Whitesboro, NY
 headshot: "headshot_1.png"
