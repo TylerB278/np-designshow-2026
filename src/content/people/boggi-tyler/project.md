@@ -10,7 +10,7 @@ bio: |
   
 title: "Piano: Self-guided Beginner Piano Lessons"
 thumbnail:
-  src: "project_1.png"
+  src: "project_1.gif"
   alt: "Piano"
 images:
   - src: "project_2.png"
