@@ -11,18 +11,18 @@ bio: |
 title: "Piano: Self-guided Beginner Piano Lessons"
 thumbnail:
   src: "project_1.gif"
-  alt: "Piano"
+  alt: "Esports Visualized"
 images:
-  - src: "project_2.png"
-    alt: "Piano: Self-guided Beginner Piano Lessons book cover"
+  - src: "project_1.png"
+    alt: "Esports Visualized website homepage"
     size: 2
+  - src: "project_2.png"
+    alt: "Esports Visualized case study page"
+    size: 1
   - src: "project_3.png"
-    alt: "Piano: Self-guided Beginner Piano Lessons book cover"
+    alt: "First to Fund event branding"
     size: 1
   - src: "project_4.png"
-    alt: "Piano: Self-guided Beginner Piano Lessons intro spread"
-    size: 1
-  - src: "project_5.png"
     alt: "Piano: Self-guided Beginner Piano Lessons, lesson spread"
     size: 2
 ---
