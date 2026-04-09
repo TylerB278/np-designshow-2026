@@ -6,10 +6,10 @@ const allPeople = await getCollection("people");
 import PeopleMarquee from "../components/PeopleMarquee.astro";
 import ProjectLister from "../components/ProjectLister.astro";
 import Placeholder from "../assets/bg-placeholder.png";
-import HeaderLong from "../assets/site-logo-long.png";
-import HeaderSquare from "../assets/site-logo-square.png";
-import HeaderTall from "../assets/site-logo-tall.png";
-import HeaderBG from "../assets/site-header-bg.png";
+import HeaderLong from "../assets/site-logo-long.webp";
+import HeaderSquare from "../assets/site-logo-square.webp";
+import HeaderTall from "../assets/site-logo-tall.webp";
+import HeaderBG from "../assets/site-header-bg.webp";
 ---
 
 <Layout pageTitle="Home">
@@ -32,14 +32,15 @@ import HeaderBG from "../assets/site-header-bg.png";
 <style>
   .headerImg{
     padding: 80px;
-    max-width: 1000px;
+    width: 100%;
+    max-width: 1500px;
     animation: Intro 1s 0.5s ease-out both;
   }
 
   .bg-head{
     position: absolute;
-    padding: 120px;
-    max-width: 1000px;
+    width: 100%;
+    max-width: 1500px;
     transform-origin: center;
     animation: IntroBG 1s 0.6s ease-out both;
   }
@@ -56,21 +57,21 @@ import HeaderBG from "../assets/site-header-bg.png";
   }
 
   @media (min-width: 970px){
-  .bg-head{ rotate: 90deg; }
+  .bg-head{ rotate: 90deg; padding: 120px;}
   .long{ display: block; padding: 80px; }
   .square{ display: none; }
   .tall{ display: none; }
 }
 
   @media (max-width: 970px){
-    .bg-head{ transform: scale(88%); }
+    .bg-head{ transform: scale(88%); padding: 0px;}
     .long{ display: none; }
-    .square{ display: block; padding: 180px; }
+    .square{ display: block; padding: 80px; }
     .tall{ display: none; }
   }
 
   @media (max-width: 600px){
-    .bg-head{ transform: scale(70%); }
+    .bg-head{ transform: scale(70%); width: 700px;}
     .long{ display: none; }
     .square{ display: none; }
     .tall{ display: block; padding: 0px; width: 300px; }
@@ -88,9 +89,9 @@ import HeaderBG from "../assets/site-header-bg.png";
   }
 
   @keyframes IntroBGIdle{
-    0% { scale: 98%; }
-    50% { scale: 93%; }
-    100% { scale: 98%; }
+    0% { scale: 100%; }
+    50% { scale: 95%; }
+    100% { scale: 100%; }
   }
 
   .welcome {
