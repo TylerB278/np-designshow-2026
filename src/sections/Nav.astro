@@ -57,4 +57,21 @@ import { Image } from "astro:assets";
   header {
     /* border-bottom: 1px solid var(--color-accent-a); */
   }
+
+  @media (max-width: 500px){
+    .nav-logo{
+      width: 80px;
+      padding: 0.5rem;
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+    }
+    a, p{
+      font-size: 10pt;
+      padding: 0.2rem;
+    }
+    nav{
+      padding-left: 0.5em;
+      padding-right: 0.5em;
+    }
+  }
 </style>
