@@ -5,7 +5,7 @@ location: Pleasant Valley, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
-weblink: 
+weblink: https://2026show.newpaltz.design/
 portfolio: https://www.behance.net/daniellebunn1
 bio: |
   Danielle Bunn is a graduating senior from Pleasant Valley NY. Their design interests include publication design, brand design, and advertising & marketing, all of which can be found in their portfolio. Their style of design leans more towards small details and elegant motifs. When not designing, you can find them reading, writing, or playing video games.

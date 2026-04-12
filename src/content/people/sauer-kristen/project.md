@@ -5,7 +5,7 @@ location: Babylon, New York
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
-weblink: 
+weblink: https://2026show.newpaltz.design/
 portfolio: https://jazmynedailysimpson.com
 bio: |
   Jazmyne Daily-Simpson is a graphic design BFA and Art History minor with a passion for branding and print design. She loves adding hand drawn illustrations and techniques to her work and can usually be found in the labs scanning anything and everything. When she’s not designing, Jazmyne enjoys running, knitting, and visiting art museums.

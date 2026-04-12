@@ -5,7 +5,7 @@ location: Setauket, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
-weblink: 
+weblink: https://2026show.newpaltz.design/
 portfolio: https://elizabethblasco.org
 bio: |
   Elizabeth is a graduating senior with an interest in branding and marketing, and a newfound interest in CAD and digital design. She loves music, movies, and spending time with her friends and family.

@@ -5,7 +5,7 @@ location: Long Island, New York
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
-weblink: 
+weblink: https://2026show.newpaltz.design/
 portfolio: https://katiehumphrey601.myportfolio.com
 bio: |
   Kat is a graduating senior who has been drawn to packaging design since she could walk. The admiration began at age four, when she started stashing ice cream wrappers from the neighborhood ice cream man behind the living room couch. She draws inspiration from her extensive perfume and packaging collection, as well as album covers, billboards, and ads from the music industry…especially anything from Lady Gaga.

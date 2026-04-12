@@ -5,7 +5,7 @@ location: Bronx, NY | Dominican Republic
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
-weblink: 
+weblink: https://2026show.newpaltz.design/
 portfolio: https://emelymoncion.com/
 bio: |
   Emely Moncion is a graduating senior from SUNY New Paltz majoring in Graphic Design and a minor in business analytics. Her focus is on brand Identity, social media design, and marketing. She likes to incorporate a lot of her background and heritage in her work, as a Dominican woman, to create vibrant and eye-catching visuals to capture the audience's attention. Emely loves meeting new people and exploring the world.

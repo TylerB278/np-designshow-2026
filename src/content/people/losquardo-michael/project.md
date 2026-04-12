@@ -6,7 +6,7 @@ location: Ronkonkoma, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
-weblink: 
+weblink: https://2026show.newpaltz.design/
 portfolio: https://www.instagram.com/penn_design/
 bio: |
   Jake is a graduating master student from Digital Design & Fabrication with a background in Mechanical Engineering. His specialties include 3D modeling, fabrication, and microcontroller electronics, which are all showcased in his thesis project. In his free time, Jake enjoys tinkering with new projects, going on walks, and listening to music.

@@ -6,7 +6,7 @@ location: Whitesboro, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
-weblink: 
+weblink: https://2026show.newpaltz.design/
 portfolio: https://allisonoconnor.com
 bio: |
   Allison O’Connor is a graduating Graphic Design student with a minor in Art History. She has spent her last two summers working in museums and galleries, and she has the goal to work fulltime in a museum. Her last two years at New Paltz, she has been interested in analog photography; she takes inspiration from German Expressionist films and surrealism.

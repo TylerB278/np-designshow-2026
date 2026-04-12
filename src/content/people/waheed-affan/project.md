@@ -5,7 +5,7 @@ location: Oneonta, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
-weblink: 
+weblink: https://2026show.newpaltz.design/
 portfolio: https://oliviahansendesign.myportfolio.com
 bio: |
   Olivia is an Oneonta native whose design interests lie in visual identity, user experience, and all things typographical. She's driven by a lifelong passion for storytelling and values design as a tool for exploring new perspectives. When she's not busy crunching the numbers for a perfect document grid, you can find Olivia crocheting a sweater, perfecting her cheesy popcorn recipe, or pausing a movie every five minutes to discuss its symbolism.
