@@ -4,6 +4,7 @@ pronouns: she/her
 location: Wappingers Falls, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
+weblink: https://tyler-boggi.dev/
 portfolio: https://kaylahphillips.com
 bio: |
   Kaylah is a designer from Wappingers Falls, NY who specializes in editorial design, branding, and packaging design. She approaches her work with meticulous attention to detail and draws inspiration from her love of music and fashion, often spending weekends thrifting for unique pieces or exploring the cultural landscape of New York City. When not immersed in design work, Kaylah can be found curating playlists that fuel her creativity and capturing fresh perspectives during her adventures.

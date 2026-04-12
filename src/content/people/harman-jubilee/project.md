@@ -4,6 +4,7 @@ pronouns: he/him
 location: Queens, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
+weblink: https://tyler-boggi.dev/
 portfolio: https://yudylan.com
 bio: |
   Dylan is a graduating senior from Queens, NY. Their design specialties include user experience, motion graphics, and typography, all of which make an appearance in their thesis project. They take inspiration from their love of music and can't finish a work session without playing a TheWeeknd song or two. In their spare time Dylan enjoys playing video games and watching TV.

@@ -40,7 +40,6 @@ const firstName = names.join(" ");
         <div class="project-content">
           <Content />
         </div>
-
         <Gallery images={entry.data.images} />
       </div>
     </main>
@@ -59,12 +58,19 @@ const firstName = names.join(" ");
         </h2>
         <div class="button-group">
           <Button compact color="accent-c" href={`/designers/${entry.id}`}
-            >About <span class="star-after">Me</span></Button
+            >About <span>Me</span></Button
           >
           {
             entry.data.portfolio && (
               <Button compact href={entry.data.portfolio} color="accent-b">
-                <span class="star-after">Portfolio</span>
+                <span>Portfolio</span>
+              </Button>
+            )
+          }
+          {
+            entry.data.portfolio && (
+              <Button compact href={entry.data.weblink} color="accent-a">
+                <span>Project Website</span>
               </Button>
             )
           }

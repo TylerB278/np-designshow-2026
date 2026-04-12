@@ -2,6 +2,7 @@
 interface Props {
   href: string;
   color: string;
+  show: string;
   compact?: boolean;
 }
 const { props } = Astro;
@@ -10,7 +11,7 @@ const { props } = Astro;
 <a
   href={props.href}
   class:list={["btn", props.compact && "btn-compact"]}
-  style=`--color-btn:var(--color-${props.color})`><slot /></a
+  style=`--color-btn:var(--color-${props.color});`><slot /></a
 >
 
 <style>

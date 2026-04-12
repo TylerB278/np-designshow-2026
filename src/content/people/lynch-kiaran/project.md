@@ -5,6 +5,7 @@ fade: "fade-bottom"
 location: Massapequa, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
+weblink: https://tyler-boggi.dev/
 portfolio: https://madisontripi.com
 bio: |
   Madison is a graduating senior originally from Massapequa, NY. Her design specialties include branding, ideation, and advertising. She takes her inspiration from scanning antique stores, scrolling on Pinterest and trying her best to think outside the box. In her spare time Madison enjoys going to the gym for her mental and physical well-being as well as taking care of dogs and cats for neighboring clients.

@@ -4,6 +4,7 @@ pronouns: she/her
 location: Glens Falls, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
+weblink: https://tyler-boggi.dev/
 portfolio: https://www.rowandavidsonart.com/
 bio: |
   Rowan Davidson is a senior from Glens Falls, NY. Her design specialties include branding, ideation, and web design, all of which can be seen in her thesis project. She draws inspiration from her past and present experiences, and always keeps an eye out for media to collage. In her spare time, Rowan enjoys playing video games with friends and going on long walks with family.
