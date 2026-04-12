@@ -4,7 +4,8 @@ pronouns: he/it
 location: Bronx, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-weblink: https://tyler-boggi.dev/
+thesisweb: hide
+weblink: 
 portfolio: https://myrkosdiaz.com
 bio: |
   Myrkos is a soon-to-be graduating senior from a little place known as the Bronx. Some of his specialties in design include branding and typography, which he gets his appreciation for from the years spent designing original characters on his own time.

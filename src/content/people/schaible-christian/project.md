@@ -4,7 +4,8 @@ pronouns: he/him
 location: Hawthorne, New York
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-weblink: https://tyler-boggi.dev/
+thesisweb: hide
+weblink: 
 portfolio: https://johnnydimaio.com
 bio: |
   Johnny is a graduating senior from Westchester, NY, specializing in identity, branding, layout, and interface design. He’s drawn to eco-conscious design that blends hands-on making with thoughtful digital storytelling—whether that’s turning old clothes into something new or building a brand with intention. His thesis reflects this balance, bringing together sustainability, style, and purpose in one project. When he's not creating, he's probably doing yoga, getting lost in antique stores, or trying (and failing) to teach his cat how to roll over.

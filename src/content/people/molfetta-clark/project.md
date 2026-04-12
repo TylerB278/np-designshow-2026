@@ -4,7 +4,8 @@ pronouns: she/her
 location: New Paltz, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-weblink: https://tyler-boggi.dev/
+thesisweb: hide
+weblink: 
 portfolio: https://linkedin.com/in/melinadevine
 bio: |
   Melina Devine discovered her love for graphic design in 9th grade and has been obsessed with it ever since. Growing up in the Hudson Valley, where art and nature are deeply intertwined, she developed a hope to bridge both worlds. Though her career path led her to design, Melina maintains a profound appreciation for nature, literature, and art. Now, Melina is focused on transforming her thesis project into a viable business, bringing together her creative talents and her love for nature and literature. 

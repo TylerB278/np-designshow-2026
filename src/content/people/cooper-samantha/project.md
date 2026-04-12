@@ -4,7 +4,8 @@ pronouns: she/her
 location: Cortlandt Manor, New York
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-weblink: https://tyler-boggi.dev/
+thesisweb: hide
+weblink: 
 portfolio: https://caleighaddis.com/
 bio: |
   Caleigh Addis is a graduating senior in the graphic design program at SUNY New Paltz. Caleigh is from Cortlandt Manor, New York. Her design specialties include user experience design, web design, and branding. She likes to spend her spare time painting silly guys, reading stories, and soaking in the sun. She’d also like to thank her two rats, Checkers and Domino, for all their love and support.

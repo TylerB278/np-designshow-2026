@@ -2,7 +2,7 @@
 interface Props {
   href: string;
   color: string;
-  hide?: string;
+  thesisweb?: string;
   newtab?: string;
   compact?: boolean;
 }
@@ -11,7 +11,7 @@ const { props } = Astro;
 
 <a
   href={props.href}
-  class:list={["btn", props.compact && "btn-compact", `${props.hide}`]}
+  class:list={["btn", props.compact && "btn-compact", props.thesisweb ]}
   style=`--color-btn:var(--color-${props.color});`><slot /></a
 >
 

@@ -4,7 +4,8 @@ pronouns: she/her
 location: New City, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-weblink: https://tyler-boggi.dev/
+thesisweb: hide
+weblink: 
 portfolio: https://caiasullivan.com
 bio: |
   Caia is a graduating senior from New City, NY. Her design specialties include print and digital work, typography, and layout designs. She's currently fixated on shapes and primary colors, which heavily influenced her thesis project branding. She can't work on a project without watching a show or movie—her favorite Old Library movie is The Menu.

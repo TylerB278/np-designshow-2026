@@ -4,7 +4,8 @@ pronouns: she/her
 location: Poughkeepsie, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-weblink: https://tyler-boggi.dev/
+thesisweb: hide
+weblink: 
 portfolio: https://celinasciuto.com
 bio: |
   Celina Sciuto is a multidisciplinary designer from Poughkeepsie, NY. She is a self-proclaimed hobby collector, two of which are visible mending and sewing, which inspired her thesis project. Outside of the studio, you can find her destroying her friends in Mario Kart, making new music playlists, or scouring thrift stores for vintage craft supplies.

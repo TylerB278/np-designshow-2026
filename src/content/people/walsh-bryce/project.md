@@ -4,7 +4,8 @@ pronouns: she/her
 location: Rockland County, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-weblink: https://tyler-boggi.dev/
+thesisweb: hide
+weblink: 
 portfolio: https://oliviavwilson.com
 bio: |
   Olivia, a graduating senior from Rockland County, NY, is passionate about user experience design and dedicated to creating inclusive and enjoyable digital spaces for everyone. She actively engages in various educational and learning opportunities, particularly related to human-centered design and inclusive leadership. Olivia aspires to own her own company, where she can continuously pursue innovation and entrepreneurship.

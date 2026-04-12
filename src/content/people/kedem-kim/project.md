@@ -4,7 +4,8 @@ pronouns: she/her
 location: Setauket, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-weblink: https://tyler-boggi.dev/
+thesisweb: hide
+weblink: 
 portfolio: https://elizabethblasco.org
 bio: |
   Elizabeth is a graduating senior with an interest in branding and marketing, and a newfound interest in CAD and digital design. She loves music, movies, and spending time with her friends and family.

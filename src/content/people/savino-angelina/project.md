@@ -4,7 +4,8 @@ pronouns: they/she/he
 location: Hampton Bays, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_3.png"
-weblink: https://tyler-boggi.dev/
+thesisweb: hide
+weblink: 
 portfolio: https://soledadjess.com/
 bio: |
   Jess is a graduating senior from Hampton Bays, NY. Their design specialties include illustrations, type design, and branding, all appearing in their thesis project. They take inspiration from whatever interests them at the moment, which is currently J-pop and video games. Whenever they aren't pulling all-nighters, Jess enjoys making jewelry, drawing their original characters, and discovering new music!

@@ -4,7 +4,8 @@ pronouns: she/her
 location: Long Island, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-weblink: https://tyler-boggi.dev/
+thesisweb: hide
+weblink: 
 portfolio: https://daniellarivera.com
 bio: |
   Daniella Rivera, a graduating senior from Long Island, NY, loves bold visuals, playful branding, and designing with emotion in mind. Her thesis project, Resonance, dives into how music connects us through feeling and interaction. When she’s not designing, she’s probably gaming, vibing to Ricky Montgomery, or enjoying the rain with a new playlist on repeat.
