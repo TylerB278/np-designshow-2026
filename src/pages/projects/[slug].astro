@@ -62,14 +62,14 @@ const firstName = names.join(" ");
           >
           {
             entry.data.portfolio && (
-              <Button compact href={entry.data.portfolio} color="accent-b">
+              <Button compact newtab="_blank" href={entry.data.portfolio} color="accent-b">
                 <span>Portfolio</span>
               </Button>
             )
           }
           {
-            entry.data.portfolio && (
-              <Button compact href={entry.data.weblink} color="accent-a">
+            entry.data.weblink && (
+              <Button compact newtab="_blank" hide={entry.data.hide} href={entry.data.weblink} color="accent-a">
                 <span>Project Website</span>
               </Button>
             )
