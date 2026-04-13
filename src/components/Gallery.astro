@@ -15,6 +15,7 @@ import { Image } from "astro:assets";
     images.map((image) => {
       return (
         <Image
+          width={1000}
           src={image.src}
           alt={image.alt}
           class:list={["gallery-image", `gallery-image-${image.size ?? "2"}`]}

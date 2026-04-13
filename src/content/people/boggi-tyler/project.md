@@ -23,7 +23,7 @@ images:
   - src: "project_4.png"
     alt: "Collegiate esports example for Esports Visualized: New Paltz Esports"
     size: 1
-  - src: "project_5.png"
+  - src: "project_5.gif"
     alt: "3D compositing example for Esports Visualized: Orcane"
     size: 1
   - src: "project_6.png"
