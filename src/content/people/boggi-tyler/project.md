@@ -26,7 +26,7 @@ images:
   - src: "project_4.png"
     alt: "New Paltz Esports: Collegiate Esports"
     size: 1
-  - src: "project_4.png"
+  - src: "project_5test.png"
     alt: "New Paltz Esports: Collegiate Esports"
     size: 1
 ---
