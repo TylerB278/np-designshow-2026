@@ -1,31 +1,33 @@
 ---
 name: Tyler Boggi
-pronouns: she/her
-location: New Paltz, NY
+pronouns: he/him
+location: Coram, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 portfolio: https://tyler-boggi.dev/
 weblink: https://illustrate-esports.netlify.app/
 bio: |
-  Arianna Moore is a graduation senior from SUNY New Paltz. Her design skills include print design, brand design, and illustration and are showcased in their thesis project. Her dedication and design skills are seen throughout her thesis and other designs. 
+  Tyler Boggi is a graduating Graphic Design senior. He specializes in Branding and Front-to-End Web Design! He has done design work for a lot of online spaces like Esports and has taken inspiration from those spaces as well. While not designing you can find him bowling and taking video games way too seriously. Fun fact, he designed this very website!
   
-title: "Piano: Self-guided Beginner Piano Lessons"
+title: "Esports Visualized"
 thumbnail:
   src: "project_1.gif"
   alt: "Esports Visualized"
 images:
   - src: "project_1.png"
-    alt: "Esports Visualized website homepage"
+    alt: "Esports Visualized website mockup"
     size: 2
   - src: "project_2.png"
     alt: "Esports Visualized case study page"
     size: 1
   - src: "project_3.png"
-    alt: "First to Fund event branding"
+    alt: "First to Fund: Event Design"
     size: 1
   - src: "project_4.png"
-    alt: "Piano: Self-guided Beginner Piano Lessons, lesson spread"
+    alt: "New Paltz Esports: Collegiate Esports"
     size: 2
 ---
 
-It is difficult to find instructional piano books that teach piano music in an easy to understand and engaging way. Adult learners face many challenges compared to those who started learning at a younger age. Younger people have an easier time learning because they are still figuring out motor skills and memorization, both necessary in learning the piano, and can manipulate hands and brain easier than someone older who is used to doing things certain ways. Current piano lesson books are meant to be paired with an instructor. A lot of beginner books are also geared towards younger students, they also require multiple books that need to be purchased. This project, _Piano_, is an instructional piano book intended for adults who would like to learn music and how to play the piano. It will be directed towards beginners who are trying to learn on their own, without an instructor. The lessons are presented in a way that covers visual, tactile, and auditory learning styles. 
+Designing for competitive gaming may sound like designing for any other industry. In reality, it comes with many unique challenges that you may not encounter elsewhere. But at the same time, it comes with boundless unique opportunities to express your creativity and make something truly special.
+
+**Esports Visualized** is a project about expressing what makes designing for Esports so unique and interesting. Through focused case studies showing real and actively used applications of Esports design it aims to show why designing for Esports can be truly unique and rewarding. All of the research and process from making these designs has been documented on the project’s [website](https://illustrate-esports.netlify.app/) for you to see yourself! The in-depth explanations in each case study serve to help give anyone interested in doing Esports design a jumping off point or just to enjoy for anyone interested in seeing how it’s all done. Explore the wonderful world of designing for Esports with Esports Visualized!
