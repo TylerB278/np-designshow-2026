@@ -17,17 +17,17 @@ images:
   - src: "project_1.png"
     alt: "Esports Visualized website mockup"
     size: 2
-  - src: "project_2.png"
-    alt: "Esports Visualized case study page"
-    size: 1
   - src: "project_3.png"
     alt: "First to Fund: Event Design"
     size: 1
   - src: "project_4.png"
     alt: "New Paltz Esports: Collegiate Esports"
     size: 1
-  - src: "project_5test.png"
-    alt: "New Paltz Esports: Collegiate Esports"
+  - src: "project_5.png"
+    alt: "Orcane 3D Render: 3D Compositing"
+    size: 1
+  - src: "project_6.png"
+    alt: "Esports Visualized alternate branding example"
     size: 1
 ---
 
