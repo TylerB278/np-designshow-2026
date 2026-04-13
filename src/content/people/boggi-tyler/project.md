@@ -25,7 +25,10 @@ images:
     size: 1
   - src: "project_4.png"
     alt: "New Paltz Esports: Collegiate Esports"
-    size: 2
+    size: 1
+  - src: "project_4.png"
+    alt: "New Paltz Esports: Collegiate Esports"
+    size: 1
 ---
 
 Designing for competitive gaming may sound like designing for any other industry. In reality, it comes with many unique challenges that you may not encounter elsewhere. But at the same time, it comes with boundless unique opportunities to express your creativity and make something truly special.
