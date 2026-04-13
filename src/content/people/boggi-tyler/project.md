@@ -5,29 +5,29 @@ location: Coram, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 portfolio: https://tyler-boggi.dev/
-weblink: https://illustrate-esports.netlify.app/
+weblink: https://esports-visualized.netlify.app/
 bio: |
   Tyler Boggi is a graduating Graphic Design senior. He specializes in Branding and Front-to-End Web Design! He has an interest in designing for competition and is a competitor in Esports himself. While not designing you can find him bowling, swimming, and taking video games way too seriously. Fun fact, he designed this very website!
   
 title: "Esports Visualized"
 thumbnail:
   src: "project_1.gif"
-  alt: "Esports Visualized"
+  alt: "Esports Visualized project title card"
 images:
   - src: "project_1.png"
-    alt: "Esports Visualized website mockup"
+    alt: "Esports Visualized project website mockup for both mobile and desktop"
     size: 2
   - src: "project_3.png"
-    alt: "First to Fund: Event Design"
+    alt: "Event design example for Esports Visualized: First to Fund"
     size: 1
   - src: "project_4.png"
-    alt: "New Paltz Esports: Collegiate Esports"
+    alt: "Collegiate esports example for Esports Visualized: New Paltz Esports"
     size: 1
   - src: "project_5.png"
-    alt: "Orcane 3D Render: 3D Compositing"
+    alt: "3D compositing example for Esports Visualized: Orcane"
     size: 1
   - src: "project_6.png"
-    alt: "Esports Visualized alternate branding example"
+    alt: "Alternate black and yellow branding example for Esports Visualized"
     size: 1
 ---
 
