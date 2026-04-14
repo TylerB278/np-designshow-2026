@@ -10,16 +10,19 @@ portfolio: https://caiasullivan.com
 bio: |
   Caia is a graduating senior from New City, NY. Her design specialties include print and digital work, typography, and layout designs. She's currently fixated on shapes and primary colors, which heavily influenced her thesis project branding. She can't work on a project without watching a show or movie—her favorite Old Library movie is The Menu.
 
-title: "Why TV Matters"
+title: "Communication Through Memes: Miles Makes Memes"
 thumbnail:
   src: "project_1.png"
-  alt: "Why TV Matters"
+  alt: "Communication Through Memes: Miles Makes Memes Banner"
 images:
   - src: "project_2.png"
-    alt: 'Why TV Matters website screengrab "How race is portrayed on the TV screen" "A round table on gender representation" "The show that didn''t believe in disabled performers"'
+    alt: "Meme Template Collage"
     size: 2
   - src: "project_3.png"
-    alt: "images of representation on different shows"
+    alt: "Created Memes Collage"
+    size: 1
+  - src: "project_4.png"
+    alt: "Miles Makes Memes Design"
     size: 1
 ---
 
