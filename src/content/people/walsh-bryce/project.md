@@ -12,7 +12,7 @@ bio: |
 
 title: "Night Shifts"
 thumbnail:
-  src: "project_1.gif"
+  src: "project_2.jpg"
   alt: 'A title "Night Shifts" shift back and forth across the screen the letter "I" grows and shrinks informing this movement. Above, a stop motion animation of cartoon characters hold pitchforks, perpetually guarding an opening and closing gate. In the background is an abstraction of color and light glowing and dimming as the video loops.'
 images:
   - src: "project_2.jpg"
