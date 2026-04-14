@@ -1,28 +1,28 @@
 ---
 name: Bryce Walsh
-pronouns: she/her
-location: Rockland County, NY
+pronouns: he/him
+location: Syracuse, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
 weblink: https://2026show.newpaltz.design/
-portfolio: https://oliviavwilson.com
+portfolio: https://brycewalshgraphics.myportfolio.com/
 bio: |
   Olivia, a graduating senior from Rockland County, NY, is passionate about user experience design and dedicated to creating inclusive and enjoyable digital spaces for everyone. She actively engages in various educational and learning opportunities, particularly related to human-centered design and inclusive leadership. Olivia aspires to own her own company, where she can continuously pursue innovation and entrepreneurship.
 
-title: "Be the Key"
+title: "Night Shifts"
 thumbnail:
-  src: "project_1.png"
-  alt: "Be the Key: send a key, share a story"
+  src: "project_1.gif"
+  alt: 'A title "Night Shifts" shift back and forth across the screen the letter "I" grows and shrinks informing this movement. Above, a stop motion animation of cartoon characters hold pitchforks, perpetually guarding an opening and closing gate. In the background is an abstraction of color and light glowing and dimming as the video loops.'
 images:
-  - src: "project_2.png"
-    alt: "Be the Key logo icon"
+  - src: "project_2.jpg"
+    alt: "A colorful abstraction of cartoon characters combined, with texture."
     size: 2
-  - src: "project_3.png"
-    alt: "Be the Key weekly spotlight"
+  - src: "project_3.jpg"
+    alt: "A colorful abstraction of a candlestick holding 8 candles, with texture."
     size: 1
-  - src: "project_4.png"
-    alt: "Be the Key website screengrabs"
+  - src: "project_4.jpg"
+    alt: "A colorful abstraction of a cartoon character sleep walking, with texture."
     size: 1
 ---
 

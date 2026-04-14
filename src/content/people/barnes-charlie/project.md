@@ -1,32 +1,31 @@
 ---
 name: Charlie Barnes
-fade: left
-pronouns: she/her
-location: Whitesboro, NY
+pronouns: he/him
+location: Saratoga Springs, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
 weblink: https://2026show.newpaltz.design/
-portfolio: https://allisonoconnor.com
+portfolio: https://cdbbarnes.myportfolio.com
 bio: |
   Allison O’Connor is a graduating Graphic Design student with a minor in Art History. She has spent her last two summers working in museums and galleries, and she has the goal to work fulltime in a museum. Her last two years at New Paltz, she has been interested in analog photography; she takes inspiration from German Expressionist films and surrealism.
 
-title: "Biting My Tongue"
+title: "Above Average"
 thumbnail:
   src: "project_1.png"
-  alt: "Biting My Tongue: photography, poetry, and book design by Allison O'Connor"
+  alt: "A poster showing graphs of NBA players"
 images:
   - src: "project_2.png"
-    alt: 'Analog Photography with poem "Have you ever written about me? She asked- I roll my eyes. This like this should not take a genius. In a year, if your still there. That''s how I''ll know. If you ever cared, you can read it in my thesis." '
+    alt: "A poster showing graphs of NBA players"
     size: 2
   - src: "project_3.png"
-    alt: "Biting My Tongue book spread"
+    alt: "Graphs and a spreadsheet about NBA stats and their variance from the mean"
     size: 1
   - src: "project_4.png"
-    alt: "Biting My Tongue photography"
+    alt: 'A picture showing NBA players, a graph with randomly placed data points, and the title "Above Average"'
     size: 1
   - src: "project_5.png"
-    alt: "Biting My Tongue behind the scenes and final image"
+    alt: "A spiral-bound book showing the most impressive stats from Larry Bird, Tracy McGrady, Wilt Chamberlain, and LeBron James."
     size: 2
 ---
 
