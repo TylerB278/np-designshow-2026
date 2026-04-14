@@ -1,28 +1,28 @@
 ---
 name: Christian Schaible
-pronouns: he/him
-location: Hawthorne, New York
+pronouns: he/they
+location: Poughkeepsie, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
 weblink: https://2026show.newpaltz.design/
-portfolio: https://johnnydimaio.com
+portfolio: https://christianschaible.work
 bio: |
   Johnny is a graduating senior from Westchester, NY, specializing in identity, branding, layout, and interface design. He’s drawn to eco-conscious design that blends hands-on making with thoughtful digital storytelling—whether that’s turning old clothes into something new or building a brand with intention. His thesis reflects this balance, bringing together sustainability, style, and purpose in one project. When he's not creating, he's probably doing yoga, getting lost in antique stores, or trying (and failing) to teach his cat how to roll over.
 
-title: "RENU"
+title: "CREATIVE LICENSE"
 thumbnail:
-  src: "project_1.png"
-  alt: "RENU"
+  src: "project_3.gif"
+  alt: "Creative License animated logo"
 images:
   - src: "project_2.png"
-    alt: "RENU pants design"
+    alt: "Heavily edited image of someone drawing on paper"
     size: 2
-  - src: "project_3.png"
-    alt: "RENU shirt design collar detail"
+  - src: "project_3.gif"
+    alt: '"How do rules impact the creative process?" with an animated background'
     size: 1
-  - src: "project_4.png"
-    alt: "RENU button detail"
+  - src: "project_4.gif"
+    alt: "Heavily edited animation of hands applying oil pastel to paper"
     size: 1
 ---
 
