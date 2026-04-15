@@ -1,25 +1,27 @@
 ---
 name: Kylee Henry
-pronouns: they/them
-location: Queensbury, NY
+pronouns: she/her
+location: Riverdale, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-thesisweb: hide
-weblink: https://2026show.newpaltz.design/
-portfolio: https://www.behance.net/leighjoiner
+weblink: https://www.behance.net/gallery/247333963/Poker-Peace
+portfolio: https://kyleehenry.framer.website/
 bio: |
   Leigh is a graduating senior whose design specialties include branding and character design, which can be seen in their thesis project. They take inspiration from their love of video games and enjoy listening to Dark Souls boss music to motivate them while they work. In their spare time, Leigh writes fictional stories, bakes sweet treats, and doodles in the margins.
 
-title: "<body>: an inclusive avatar creator"
+title: "Poker Peace"
 thumbnail:
   src: "project_1.gif"
-  alt: "<body>: an inclusive avatar creator gif"
+  alt: "gif showing logo for poker peace in text and in icons"
 images:
   - src: "project_2.png"
-    alt: "User interface of <body>: an inclusive avatar creator, showing the ability to customize all aspects of an avatar"
+    alt: "app cover for poker peace"
     size: 2
   - src: "project_3.png"
-    alt: "<body>: an inclusive avatar creator created avatars "
+    alt: "landing pages for poker peace ui design"
+    size: 1
+  - src: "project_4.png"
+    alt: "gaming pages for poker peace game"
     size: 1
 ---
 
