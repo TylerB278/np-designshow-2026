@@ -1,25 +1,28 @@
 ---
 name: Ethan Gravel
-pronouns: she/her
-location: Pleasant Valley, NY
+pronouns: he/him
+location: Albany, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
 weblink: https://2026show.newpaltz.design/
-portfolio: https://www.behance.net/daniellebunn1
+portfolio: https://ethangravel.com
 bio: |
   Danielle Bunn is a graduating senior from Pleasant Valley NY. Their design interests include publication design, brand design, and advertising & marketing, all of which can be found in their portfolio. Their style of design leans more towards small details and elegant motifs. When not designing, you can find them reading, writing, or playing video games.
 
-title: "Divine Designs: Greek Mythology in Game Design"
+title: "Real or Robot?"
 thumbnail:
-  src: "project_1.png"
-  alt: "Divine Art: Greek Mythology in Game Design"
+  src: "project_1.gif"
+  alt: "Real or Robot logo graphic"
 images:
   - src: "project_2.png"
-    alt: "Divine Art: Greek Mythology in Game Design book cover"
-    size: 1
+    alt: "Mobile phone mockup with main menu and gameplay screens"
+    size: 2
   - src: "project_3.png"
-    alt: "Divine Art: Greek Mythology in Game Design page spread"
+    alt: "Game screen grid mockup showing multiple gameplay rounds"
+    size: 1
+  - src: "project_4.png"
+    alt: "If any image can be generated, how do we know what to trust quote graphic"
     size: 1
 ---
 

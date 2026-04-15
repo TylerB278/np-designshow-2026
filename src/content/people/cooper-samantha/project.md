@@ -1,25 +1,28 @@
 ---
 name: Samantha Cooper
 pronouns: she/her
-location: Cortlandt Manor, New York
+location: Hartford, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
-weblink: https://2026show.newpaltz.design/
-portfolio: https://caleighaddis.com/
+weblink: https://gd.newpaltz.edu/coopers/
+portfolio: https://2026show.newpaltz.design/
 bio: |
   Caleigh Addis is a graduating senior in the graphic design program at SUNY New Paltz. Caleigh is from Cortlandt Manor, New York. Her design specialties include user experience design, web design, and branding. She likes to spend her spare time painting silly guys, reading stories, and soaking in the sun. She’d also like to thank her two rats, Checkers and Domino, for all their love and support.
 
-title: "The Art of Bookbinding"
+title: "Backyard Chickens"
 thumbnail:
-  src: "project-2.gif"
-  alt: "Art of Bookbinding Title "
+  src: "project_1.jpg"
+  alt: "A collage of various pictures of chickens in a backyard, as well as some younger chickens in a coop."
 images:
-  - src: "project-3.png"
-    alt: "Art of Bookbinding zine covers"
+  - src: "project_2.jpg"
+    alt: "A mockup of the cover page of Hennifer: The Backyard Chicken."
+    size: 2
+  - src: "project_3.jpg"
+    alt: "An interior spread from Hennifer: The Backyard Chicken featuring Hennifer and her friend discovering their first egg."
     size: 1
-  - src: "project-4.png"
-    alt: "Art of Bookbinding zine spread"
+  - src: "project_4.jpg"
+    alt: "Another interior spread from Hennifer: The Backyard Chicken, this one details the hens nervous about the oncoming storm."
     size: 1
 ---
 
