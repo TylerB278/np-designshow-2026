@@ -1,28 +1,28 @@
 ---
 name: Raquel Ferraro
 pronouns: she/her
-location: Waterford, NY
+location: Long Island, NY
 headshot: "headshot-1.png"
 headshotAlt: "headshot-2.png"
 thesisweb: hide
 weblink: https://2026show.newpaltz.design/
-portfolio: https://cleogoldman.com
+portfolio: https://raquelferraro-com.l.ink/
 bio: |
   Cleo is a graduating senior from Waterford, NY with a passion for thoughtful, people-centered design. Their work spans user experience, branding, and illustration—three areas that come together in their thesis project, which celebrates connection and creativity. Cleo draws constant inspiration from their many favorite artists and designers, often changing their visual style multiple times in a single session just to see what sticks. In their spare time Cleo enjoys hanging out with friends, spending time outside and finding new restaurants to try.
 
-title: "Little Letters"
+title: "Exploring Blackletter in Metal Music"
 thumbnail:
   src: "project_1.png"
-  alt: "Little Letters Big Smilies"
+  alt: 'Decorative lettering that reads, "Exploring blackletter in metal music, Raquel Ferraro."'
 images:
   - src: "project_2.png"
-    alt: "LITTLE LETTERS GIVE BIG SMILIES illustration"
+    alt: 'A black book with a cover that reads, "Exploring blackletter in metal music"'
     size: 2
   - src: "project_3.png"
-    alt: "Little Letters card cover"
+    alt: 'The spread of a spiral bound book. On the left page is an image of Black Sabbaths "Sabbath Bloody Sabbath," album cover. On the right page is a body paragraph titled,    "Black Sabbaths, Sabbath Bloody Sabbath."'
     size: 1
   - src: "project_4.png"
-    alt: "Little Letters cards in store"
+    alt: 'The spread of a spiral bound book. On the left page is a collage of medieval manuscripts and art of a unicorn. The word "Four," reads in bold lettering. On the right page is an image of a sword in a stone and the bold lettering that reads, Fantasy Influence."'
     size: 1
 ---
 
