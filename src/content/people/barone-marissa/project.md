@@ -1,27 +1,29 @@
 ---
 name: Marissa Barone
-pronouns: she/her
-location: Staatsburg, NY
+pronouns: they/them/theirs
+location: East Meadow, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-thesisweb: hide
-weblink: https://2026show.newpaltz.design/
-portfolio: https://alyssadibartolo.com 
+weblink: https://the-3mb3r-emporium.carrd.co/#thesis
+portfolio: https://the-3mb3r-emporium.carrd.co/
 bio: |
   Alyssa is a graduating senior from Staatsburg, NY their design interests are package design and website design and poster design and telling messages of which make an appearance in their thesis project. She hopes to make a career in packaging design but also still be able to do poster/web design as well. In her spare time she loves to watch different TV shows and read as well as spend time with her family and her pets. 
 
-title: "VOTE YES: A Timeline of Women’s Suffrage Posters 1848–1920"
+title: "The Cabinet of Curiosities"
 thumbnail:
-  src: "project_1.png"
-  alt: "VOTE YES: A Timeline of Women’s Suffrage Posters 1848–1920 Title"
+  src: "project_ed3.png"
+  alt: "Thesis pattern drawing"
 images:
   - src: "project_2.png"
-    alt: "VOTE YES: A Timeline of Women’s Suffrage Posters 1848–1920"
-    size: 2
-  - src: "project_3.png"
+    alt: "Griffin Bust with Dinosaur (Protoceratops Andrewsi) counterpart"
+    size: 1
+  - src: "project_1.png"
     alt: "VOTE YES: A Timeline of Women’s Suffrage Posters 1848–1920 posters"
     size: 1
   - src: "project_4.png"
+    alt: "VOTE YES: A Timeline of Women’s Suffrage Posters 1848–1920 timeline"
+    size: 1
+  - src: "project_5.png"
     alt: "VOTE YES: A Timeline of Women’s Suffrage Posters 1848–1920 timeline"
     size: 1
 ---
