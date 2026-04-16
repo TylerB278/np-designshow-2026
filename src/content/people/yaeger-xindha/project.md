@@ -10,7 +10,7 @@ portfolio: https://xindhayaeger.myportfolio.com/work
 bio: |
   Rowan Davidson is a senior from Glens Falls, NY. Her design specialties include branding, ideation, and web design, all of which can be seen in her thesis project. She draws inspiration from her past and present experiences, and always keeps an eye out for media to collage. In her spare time, Rowan enjoys playing video games with friends and going on long walks with family.
 
-title: "Mekong"
+title: "MEKONG"
 thumbnail:
   src: "project_1.png"
   alt: '"Mekong: A Typeface Inspired by Vietnamese Signage" white text on red background in bold font'

@@ -13,19 +13,13 @@ bio: |
 title: "Between Days"
 thumbnail:
   src: "project_1.png"
-  alt: "What's your Procrastination Type? title"
+  alt: "Bright text reading “between days” in orange and pink bubble lettering, overlaid on two off-white paper sheets, with small illustrated flower stamps in the corner."
 images:
-  - src: "project_2.gif"
-    alt: "What's your Procrastination Type? illustrations gif"
+  - src: "project_2.png"
+    alt: "Angled page layout with the title “between days May” in bold bubble lettering, featuring columns of text, small illustrations, and pastel highlights on a textured paper background."
     size: 2
   - src: "project_3.png"
-    alt: "What's your Procrastination Type? The Dreamer book spread"
-    size: 1
-  - src: "project_4.png"
-    alt: "What's your Procrastination Type? intro book spread"
-    size: 1
-  - src: "project_5.png"
-    alt: "What's your Procrastination Type? illustration"
+    alt: "Newsletter page titled “between days April” in bright green bubble lettering, shown beside a brown envelope, with columns of text and small illustrations."
     size: 2
 ---
 

@@ -1,28 +1,27 @@
 ---
 name: Ryan Stucker
-pronouns: he/it
-location: Bronx, NY
+pronouns: he/him
+location: Phillipsburg, NJ
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-thesisweb: hide
-weblink: https://2026show.newpaltz.design/
-portfolio: https://myrkosdiaz.com
+weblink: https://new-impressions.netlify.app/
+portfolio: https://ryan-stucker.dev/
 bio: |
   Myrkos is a soon-to-be graduating senior from a little place known as the Bronx. Some of his specialties in design include branding and typography, which he gets his appreciation for from the years spent designing original characters on his own time.
 
-title: "The Back of Your Notebook"
+title: "New Impressions"
 thumbnail:
   src: "project_1.png"
-  alt: 'The Back of Your Notebook "Learning to enjoy drawing just for the sake of it"'
+  alt: "New Impressions, 3D Printed Letterpress & Type Pieces."
 images:
   - src: "project_2.png"
-    alt: "The Back of Your Notebook Breaking the Creative Wall zine covers"
+    alt: "3D Printed letterpress displayed in it's signature pink, yellow, red, blue, and green."
     size: 2
   - src: "project_3.png"
-    alt: "DRAW FREELY nobody's watching illustration"
+    alt: "Sketching styled drawings: letterpress, pricetag, type pieces with scaffoldings, Q&A type pieces, type pieces, and documentation pages, are all represented."
     size: 1
   - src: "project_4.png"
-    alt: "Fill Up The Page illustration"
+    alt: "Showing of part of the home page design, about page, and documentation page from the website, showing the branding unique paper rip contrasting style."
     size: 1
 ---
 
