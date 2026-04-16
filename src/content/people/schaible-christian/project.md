@@ -4,8 +4,7 @@ pronouns: he/they
 location: Poughkeepsie, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-thesisweb: hide
-weblink: https://2026show.newpaltz.design/
+weblink: https://creative-license.netlify.app/
 portfolio: https://christianschaible.work
 bio: |
   Johnny is a graduating senior from Westchester, NY, specializing in identity, branding, layout, and interface design. He’s drawn to eco-conscious design that blends hands-on making with thoughtful digital storytelling—whether that’s turning old clothes into something new or building a brand with intention. His thesis reflects this balance, bringing together sustainability, style, and purpose in one project. When he's not creating, he's probably doing yoga, getting lost in antique stores, or trying (and failing) to teach his cat how to roll over.

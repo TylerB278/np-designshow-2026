@@ -15,7 +15,7 @@ thumbnail:
   src: "project_1.gif"
   alt: "Re:Wear Hudson Valley surrounded by animated clothing"
 images:
-  - src: "project_1.gif"
+  - src: "project_sm2.webp"
     alt: "Map zooms into location pinpoint. The pinpoint shows clothing carousel and zooms back out creating a loop."
     size: 2
   - src: "project_3.jpg"

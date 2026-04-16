@@ -12,7 +12,7 @@ bio: |
 
 title: "Afterburn"
 thumbnail:
-  src: "project_2.jpg"
+  src: "project_sm1.webp"
   alt: "Animated black screen with clusters of white dots forming the word “Afterburn”. The dots shift and flicker to create a dynamic digital typographic effect."
 images:
   - src: "project_2.jpg"
