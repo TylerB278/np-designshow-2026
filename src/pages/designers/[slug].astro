@@ -27,84 +27,86 @@ if (!entry) {
 ---
 
 <Layout pageTitle={entry.data.name}>
-  <div class="bio-container">
-    <div class="bio-image-wrapper">
-      <Image
-        class="bio-image"
-        src={entry.data.headshot}
-        alt={entry.data.name}
-        transition:name={`photo-${slug}`}
-        width={550}
-      />
-    </div>
-    <div class="bio-content-wrapper">
-      <div class="bio-text-wrapper">
-        <h1 class="bio-name">
-          <span class="star-after star-after-inline">{entry.data.name}</span>
-        </h1>
-        <div class="bio-info-group">
-          <p>
-            <span class="visually-hidden">Pronouns:</span>
-            <span class="star-before">{entry.data.pronouns}</span>
-          </p>
-          <p>
-            <span class="visually-hidden">Hometown:</span>
-            <span class="star-before">{entry.data.location}</span>
-          </p>
-        </div>
+    <div class="bio-container">
+      <div class="bio-image-wrapper">
+        <Image
+          class="bio-image"
+          src={entry.data.headshot}
+          alt={entry.data.name}
+          transition:name={`photo-${slug}`}
+          width={550}
+        />
+      </div>
+      <div class="bio-content-wrapper">
+        <div class="bio-text-wrapper">
+          <h1 class="bio-name">
+            <span class="star-after star-after-inline">{entry.data.name}</span>
+          </h1>
+          <div class="bio-info-group">
+            <p>
+              <span class="visually-hidden">Pronouns:</span>
+              <span class="star-before">{entry.data.pronouns}</span>
+            </p>
+            <p>
+              <span class="visually-hidden">Hometown:</span>
+              <span class="star-before">{entry.data.location}</span>
+            </p>
+          </div>
 
-        <p class="bio-text">{entry.data.bio}</p>
-        <!-- <ArrowButton href="" color="accent-a">asdasd</ArrowButton> -->
+          <p class="bio-text">{entry.data.bio}</p>
+          <!-- <ArrowButton href="" color="accent-a">asdasd</ArrowButton> -->
+        </div>
       </div>
     </div>
-  </div>
-  <ButtonGroup>
-    <Button href={"/projects/" + slugify(entry.data.title)} color="accent-a"
-      ><span class="star-after">Thesis Project</span></Button
-    >
-    {
-      entry.data.portfolio && (
-        <Button href={entry.data.portfolio} color="accent-c">
-          <span class="star-after">Portfolio Website</span>
-        </Button>
-      )
-    }
-  </ButtonGroup>
-  <div class="footContain">
-    <div class="botNav">
-      <a class="student" href="./barnes-charlie">Charlie Barnes</a>
-      <a class="student" href="./barone-marissa">Marissa Barone</a>
-      <a class="student" href="./boggi-tyler">Tyler Boggi</a>
-      <a class="student" href="./cambridge-miles">Miles Cambridge</a>
-      <a class="student" href="./cooper-samantha">Samantha Cooper</a>
-      <a class="student" href="./defino-ginger">Ginger Defino</a>
-      <a class="student" href="./ferraro-raquel">Raquel Ferraro</a>
-      <a class="student" href="./frable-hart">Hart Frable</a>
-      <a class="student" href="./friedlander-sarah">Sarah Friedlander</a>
-      <a class="student" href="./gravel-ethan">Ethan Gravel</a>
-      <a class="student" href="./harman-jubilee">Jubilee Harman</a>
-      <a class="student" href="./kedem-kim">Kim Kedem</a>
-      <a class="student" href="./henry-kylee">Kylee Henry</a>
-      <a class="student" href="./hickey-maddie">Maddie Hickey</a>
-      <a class="student" href="./losquardo-michael">Michael Losquardo</a>
-      <a class="student" href="./lynch-kiaran">Kiaran Lynch</a>
-      <a class="student" href="./molfetta-clark">Clark Molfetta</a>
-      <a class="student" href="./sauer-kristen">Kristen Sauer</a>
-      <a class="student" href="./savino-angelina">Angelina Savino</a>
-      <a class="student" href="./schaible-christian">Christian Schaible</a>
-      <a class="student" href="./scheuermann-brooke">Brooke Scheuermann</a>
-      <a class="student" href="./shochat-cindy">Cindy Shochat</a>
-      <a class="student" href="./stucker-ryan">Ryan Stucker</a>
-      <a class="student" href="./thomas-nicky">Nicky Thomas</a>
-      <a class="student" href="./waheed-affan">Affan Waheed</a>
-      <a class="student" href="./walsh-bryce">Bryce Walsh</a>
-      <a class="student" href="./wilson-faith">Faith Wilson</a>
-      <a class="student" href="./yaeger-xindha">Xindha Yaeger</a>
+    <ButtonGroup>
+      <Button href={"/projects/" + slugify(entry.data.title)} color="accent-a"
+        ><span class="star-after">Thesis Project</span></Button
+      >
+      {
+        entry.data.portfolio && (
+          <Button href={entry.data.portfolio} color="accent-c">
+            <span class="star-after">Portfolio Website</span>
+          </Button>
+        )
+      }
+    </ButtonGroup>
+    <div class="footContain">
+      <div class="seperator"></div>
+      <div class="botNav">
+        <a class="student" href="./barnes-charlie">Charlie Barnes</a>
+        <a class="student" href="./barone-marissa">Marissa Barone</a>
+        <a class="student" href="./boggi-tyler">Tyler Boggi</a>
+        <a class="student" href="./cambridge-miles">Miles Cambridge</a>
+        <a class="student" href="./cooper-samantha">Samantha Cooper</a>
+        <a class="student" href="./defino-ginger">Ginger Defino</a>
+        <a class="student" href="./ferraro-raquel">Raquel Ferraro</a>
+        <a class="student" href="./frable-hart">Hart Frable</a>
+        <a class="student" href="./friedlander-sarah">Sarah Friedlander</a>
+        <a class="student" href="./gravel-ethan">Ethan Gravel</a>
+        <a class="student" href="./harman-jubilee">Jubilee Harman</a>
+        <a class="student" href="./kedem-kim">Kim Kedem</a>
+        <a class="student" href="./henry-kylee">Kylee Henry</a>
+        <a class="student" href="./hickey-maddie">Maddie Hickey</a>
+        <a class="student" href="./losquardo-michael">Michael Losquardo</a>
+        <a class="student" href="./lynch-kiaran">Kiaran Lynch</a>
+        <a class="student" href="./molfetta-clark">Clark Molfetta</a>
+        <a class="student" href="./sauer-kristen">Kristen Sauer</a>
+        <a class="student" href="./savino-angelina">Angelina Savino</a>
+        <a class="student" href="./schaible-christian">Christian Schaible</a>
+        <a class="student" href="./scheuermann-brooke">Brooke Scheuermann</a>
+        <a class="student" href="./shochat-cindy">Cindy Shochat</a>
+        <a class="student" href="./stucker-ryan">Ryan Stucker</a>
+        <a class="student" href="./thomas-nicky">Nicky Thomas</a>
+        <a class="student" href="./waheed-affan">Affan Waheed</a>
+        <a class="student" href="./walsh-bryce">Bryce Walsh</a>
+        <a class="student" href="./wilson-faith">Faith Wilson</a>
+        <a class="student" href="./yaeger-xindha">Xindha Yaeger</a>
+      </div>
     </div>
-  </div>
 </Layout>
 
 <style>
+
   .bio-container {
     display: flex;
     flex-direction: column;
@@ -153,10 +155,17 @@ if (!entry) {
 
   .footContain{
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     width: 100%;
-    background-color: var(--color-accent-a);
+    
+    /* background-color: var(--color-accent-a); */
     padding: 1rem;
+  }
+  .seperator{
+    width: 60%;
+    height: 30px;
+    border-top: 10px solid var(--color-accent-a);
   }
   .botNav{
     display: flex;
@@ -168,10 +177,10 @@ if (!entry) {
   .student{
     padding: 0.5rem;
     margin: 0.2rem;
-    background-color: var(--color-background);
-    color: var(--color-accent-a);
+    background-color: var(--color-accent-a);
+    color: var(--color-background);
     text-decoration: none;
-  } .student:hover{ background-color: var(--color-accent-a); color: var(--color-background); }
+  } .student:hover{ background-color: var(--color-background); color: var(--color-accent-a); }
 
   @media screen and (min-width: 900px) {
     .bio-container {
