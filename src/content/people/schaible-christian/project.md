@@ -12,7 +12,7 @@ bio: |
 
 title: "CREATIVE LICENSE"
 thumbnail:
-  src: "project_3.gif"
+  src: "project-sm1.webp"
   alt: "Creative License animated logo"
 images:
   - src: "project_2.png"

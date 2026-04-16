@@ -10,7 +10,7 @@ portfolio: https://kiaranlynch.com/
 bio: |
   Madison is a graduating senior originally from Massapequa, NY. Her design specialties include branding, ideation, and advertising. She takes her inspiration from scanning antique stores, scrolling on Pinterest and trying her best to think outside the box. In her spare time Madison enjoys going to the gym for her mental and physical well-being as well as taking care of dogs and cats for neighboring clients.
 
-title: "READING"
+title: "Read•ing"
 thumbnail:
   src: "project_1.gif"
   alt: "An editorial-style title card introduces the project READING, with the word itself set in a large, serif typeface. Beneath it, smaller text reads “Books & Bookstores in the Digital Age.” Hand-drawn illustrations of books appear scattered around the edges, as if floating or drifting through space, suggesting both the abundance and fragmentation of reading today. At the center stands a self-portrait character rendered in a soft blue and black ink style, holding a flag with a simple book icon. A thin horizontal divider separates the subtitle from the phrase “A Documentary and Magazine Series,” clarifying the multi-format nature of the work."
