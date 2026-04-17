@@ -1,32 +1,26 @@
 ---
 name: Kim Kedem
 pronouns: she/her
-location: Setauket, NY
+location: Beacon, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
 weblink: https://2026show.newpaltz.design/
-portfolio: https://elizabethblasco.org
+portfolio: https://www.mixingbowlstudio.com/
 bio: |
   Elizabeth is a graduating senior with an interest in branding and marketing, and a newfound interest in CAD and digital design. She loves music, movies, and spending time with her friends and family.
 
-title: "Graphic Content"
+title: "CoolClay"
 thumbnail:
   src: "project_1.png"
-  alt: "Graphic Content:A brief guide to graphic prop design"
+  alt: "3D printed terracota CoolClay module"
 images:
   - src: "project_2.png"
-    alt: "Graphic Content book cover"
-    size: 2
-  - src: "project_3.png"
-    alt: "Graphic Content page spread"
+    alt: "Close up 3D printed terracota CoolClay module 2"
     size: 1
-  - src: "project_4.png"
-    alt: "Graphic Content page spread"
+  - src: "project_3.jpeg"
+    alt: "3D printing in action"
     size: 1
-  - src: "project_5.png"
-    alt: "Graphic Content postcards"
-    size: 2
 ---
 
 _Graphic Content_ is a book focused graphic designers' small but mighty role in film and TV production. Referred to as one of the “invisible” roles in Hollywood, their work is created with the intention of blending into the background—meant to be seen but not noticed. The project celebrates the intersection between cinema and design, recognizing the work of designers who often get overlooked.

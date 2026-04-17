@@ -1,31 +1,25 @@
 ---
-name: Jubilee Harman
+name: Jubilee Harwood
 pronouns: he/him
-location: Queens, NY
+location: Queensbury, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
 weblink: https://2026show.newpaltz.design/
-portfolio: https://yudylan.com
+portfolio: https://jubileeharwood.myportfolio.com/
 bio: |
   Dylan is a graduating senior from Queens, NY. Their design specialties include user experience, motion graphics, and typography, all of which make an appearance in their thesis project. They take inspiration from their love of music and can't finish a work session without playing a TheWeeknd song or two. In their spare time Dylan enjoys playing video games and watching TV.
 
-title: 'The Color "Violet"'
+title: "Backyard Beetles"
 thumbnail:
   src: "project_1.gif"
-  alt: 'The Color "Violet" gif'
+  alt: "Jubilee's thesis project title!"
 images:
-  - src: "project_2.png"
-    alt: 'The Color "Violet" illustration'
+  - src: "project_2.jpg"
+    alt: "Two-7 spotted ladybugs sitting on some nasturtiums!"
     size: 2
-  - src: "project_3.png"
-    alt: 'The Color "Violet" website on laptop'
-    size: 1
-  - src: "project_4.png"
-    alt: 'The Color "Violet" design'
-    size: 1
-  - src: "project_5.png"
-    alt: 'The Color "Violet" design'
+  - src: "project_3.jpg"
+    alt: "Elderberry borer beetle enjoying an elderberry tree!"
     size: 2
 ---
 
