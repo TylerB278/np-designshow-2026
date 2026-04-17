@@ -14,13 +14,16 @@ bio: |
 title: "Communication Through Memes: Miles Makes Memes"
 thumbnail:
   src: "project_1.png"
-  alt: "Why TV Matters"
+  alt: "Communication Through Memes: Miles Makes Memes Banner"
 images:
   - src: "project_2.png"
-    alt: 'Why TV Matters website screengrab "How race is portrayed on the TV screen" "A round table on gender representation" "The show that didn''t believe in disabled performers"'
+    alt: "Meme Template Collage"
     size: 2
   - src: "project_3.png"
-    alt: "images of representation on different shows"
+    alt: "Created Memes Collage"
+    size: 1
+  - src: "project_4.png"
+    alt: "Miles Makes Memes Design"
     size: 1
 ---
 

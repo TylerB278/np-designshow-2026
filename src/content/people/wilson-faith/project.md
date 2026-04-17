@@ -24,7 +24,7 @@ images:
   - src: "project_4.jpg"
     alt: "People socializing around glowing pinball machines, colorful projections on the walls, and neon lighting inside Happy Valley Arcade Bar in Beacon, NY."
     size: 1
-  - src: "project_2.jpg"
+  - src: "project_sm5.webp"
     alt: "People jumping and dancing with their hands in the air surrounded by blue and white flashing lights."
     size: 2
 ---
