@@ -2,7 +2,7 @@
 name: Michael Losquardo
 pronouns: he/him
 location: Hicksville, NY
-headshot: "headshot_1.png"
+headshot: "headshot_3.png"
 headshotAlt: "headshot_2.png"
 weblink: http://thechetshow.com/
 portfolio: https://michaellosquadro.com/
