@@ -8,7 +8,8 @@ thesisweb: hide
 weblink: https://gd.newpaltz.edu/coopers/
 portfolio: https://2026show.newpaltz.design/
 bio: |
-  Caleigh Addis is a graduating senior in the graphic design program at SUNY New Paltz. Caleigh is from Cortlandt Manor, New York. Her design specialties include user experience design, web design, and branding. She likes to spend her spare time painting silly guys, reading stories, and soaking in the sun. She’d also like to thank her two rats, Checkers and Domino, for all their love and support.
+  Samantha is an aspiring creative who can’t seem to nail down just one thing she likes to do. She spends her time illustrating, crafting, writing, doing a splash of acting, and of course,
+  graphic designing! Her biggest inspiration for her artwork is often her family, pets or personal experiences.
 
 title: "Backyard Chickens"
 thumbnail:
@@ -26,8 +27,6 @@ images:
     size: 1
 ---
 
-Books have been part of human history for thousands of years, though their earliest forms looked nothing like the ones we know today. Originally, they were handcrafted with great care—luxury items meant to be treasured. In today’s digital and fast-paced world, books are mass-produced, and the artistry behind them is often overlooked. Bookbinding has become a mechanical process, and creative, hand-bound books now mostly exist within niche artist communities. Even in our graphic design program, where we have a room dedicated to bookbinding, the craft itself has largely been forgotten.
+**“Backyard Chickens”** is an exploration into backyard chicken farming and its benefits, both to mental and physical health! Chickens make amazing companions and pets, not to mention how much better home-grown eggs taste than store-bought ones. My thesis aims to bring viewers into the lovely and silly world of chicken-keeping. You might not expect it but caring for a flock can be less work than a dog or cat, yet it is just as rewarding.  
 
-This project explores the value of handmade work in contrast to mass production and reimagines the book as more than just a container for content. It invites viewers to reconnect with the tactile, visual, and emotional experience of physical books, and to consider the act of making as meaningful in itself.
-
-_The Art of Bookbinding_ is a series of zines created to introduce others to the basics of bookbinding through beginner-friendly techniques and methods. Each guide is paired with an instructional video, walking viewers through the process step-by-step. These guides make bookbinding approachable, engaging, and accessible to anyone interested in learning.
+The culmination of this research project is a watercolor illustrated children’s book entitled “Hennifer: The Backyard Chicken”. The story follows Hennifer and her fellow flock-mates over their first few months of life. It aims to inspire children to care about chickens and encourages families to consider the benefits of owning hens.  

@@ -8,7 +8,8 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://cindyshochat.myportfolio.com/
 bio: |
-  Kaylah is a designer from Wappingers Falls, NY who specializes in editorial design, branding, and packaging design. She approaches her work with meticulous attention to detail and draws inspiration from her love of music and fashion, often spending weekends thrifting for unique pieces or exploring the cultural landscape of New York City. When not immersed in design work, Kaylah can be found curating playlists that fuel her creativity and capturing fresh perspectives during her adventures.
+  Cindy Shochat is a senior in the graphic design program and has been a graphic design intern at the Career Resource Center since her freshman year.
+  Raised in Queens, she came to New Paltz to develop a rich web of connections and experiences. She is a creative with strong skills in typography and AfterEffects, and an aspiring poet who loves turning the abstract into tangible experience.
 
 title: "The Freshly Open Sky"
 thumbnail:
@@ -29,10 +30,4 @@ images:
     size: 2
 ---
 
-Like so many Black women, my hair journey wasn’t just about style, it was about finding myself and self love.
-
-The book I’ve created holds real moments many Black women recognize as our mothers doing our hair, the deep breath before walking into work or school with our natural styles, and that instant connection when we spot someone else who chose freedom over conforming to societal norms. 
-
-Through these images and honest stories collected from over 20 Black women and expressed through experimental typography, we celebrate the beauty society told us to hide. We laugh over failed wash days, cry through memories of chemical burns, and beam with pride at our natural hair.
-
-These are our truths. Our heritage. Our crowns. Join us in this celebration of Black hair not as a statement, but as ourselves unapologetically.
+**The Freshly Open Sky** is an exploratory series of abstract videos based on a poem that uses video, sound, and motion design. The poem reflects the brief independence that college offers before returning home, creating unforgettable memories and connections. The content for the videos is a linear progression of thoughts at different times of the day. This project aims to translate poetry into multimedia experience. 

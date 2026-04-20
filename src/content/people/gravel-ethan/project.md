@@ -8,7 +8,7 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://ethangravel.com
 bio: |
-  Danielle Bunn is a graduating senior from Pleasant Valley NY. Their design interests include publication design, brand design, and advertising & marketing, all of which can be found in their portfolio. Their style of design leans more towards small details and elegant motifs. When not designing, you can find them reading, writing, or playing video games.
+  Ethan Gravel is a senior graphic design student at SUNY New Paltz from Albany, NY. He enjoys book design and user experience design. In his spare time, Ethan enjoys playing ultimate frisbee, reading books, and watching movies. 
 
 title: "Real or Robot?"
 thumbnail:
@@ -26,4 +26,4 @@ images:
     size: 1
 ---
 
-Did you know that ancient Greek goddess Aphrodite is also a playable character in video games? From art, movies, and books, such as the Percy Jackson book series, Greek mythology continues to be a source of inspiration in countless works of fiction and pop culture. The video game industry is a large contributor to this, with Greek myths serving as a foundation for iconic characters, such as Medusa, Hades, and many others. _Divine Arts_ is a book that explores character designs inspired by Greek myths and the unique ways different video games interpret the characters and stories. The book dives into the original ancient myths and compares them to many different interpretations within video game series. The book not only provides some insight into the character design process but also is an act of celebration for the creativity of these designs across different video games. Whether you are into video games, Greek mythology, or both, this book can not only provide new information, but act as a creative spark to inspire visual designers.
+**Real or Robot** is an interactive game app that challenges players to differentiate between real and AI-generated images. As artificial intelligence continues to become a convincing source of visual media, the project explores how easily our perception can be misled and what that means for trust in images going forward. 

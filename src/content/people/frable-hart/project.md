@@ -8,7 +8,8 @@ thesisweb: hide
 weblink: fortheloveoforange.com
 portfolio: https://hartfrable.com/
 bio: |
-  Cotye is a graduating senior from Warrensburg, NY, who specializes in design with illustration and user experience. They are inspired by comics, animation, games, and the designs in the worlds that bring them to life. Outside of design, Cotye enjoys drawing for fun, playing Dungeons & Dragons, and voice acting.
+  Hart Frable, from Otsego County, NY, enjoys print design, letterpress and typesetting, and illustration. She loves to read, loves Star Wars, and enjoys relaxing with her two cats.
+  And, even though she spent 9 months staring at the color orange, it’s still one of her favorite colors. 
 
 title: "for the love of orange"
 thumbnail:
@@ -20,4 +21,6 @@ images:
     size: 2
 ---
 
-Dungeons & Dragons has several bulky handbooks that are very daunting to new players and difficult to digest for those with reading difficulties. “TLDR: D&D,” or the formal title of _Too Long Didn’t Read: Dungeons & Dragons_, is meant to lower the barriers for those who struggle reading such information dense handbooks. “TLDR: D&D” is not meant to be a complete replacement for the information in the handbooks, leaving out more advanced functions. It simply explains enough for someone to play their first game of Dungeons & Dragons.
+Orange is a color that demands to be looked at. Using the digital collection from the museums in The Smithsonian Institution, I have curated a collection of works that feature shades of orange. This project identifies the primary orange hexidecimal (hex) number from the artwork and sorts the artworks into five categories based on a second identification of visual perception of the shade of orange: brown orange, bright orange, yellow orange, red orange and true orange (orange orange).  
+
+**For the Love of Orange** is a curatorial project celebrating the the color orange and its applications in art and design. The project includes a public exhibition of explanatory posters at the Sojourner Truth Library, April 20–May 8, 2026, and a supplemental digital catalogue.   

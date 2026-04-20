@@ -8,12 +8,12 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://brycewalshgraphics.myportfolio.com/
 bio: |
-  Olivia, a graduating senior from Rockland County, NY, is passionate about user experience design and dedicated to creating inclusive and enjoyable digital spaces for everyone. She actively engages in various educational and learning opportunities, particularly related to human-centered design and inclusive leadership. Olivia aspires to own her own company, where she can continuously pursue innovation and entrepreneurship.
+  Bryce is a graduating senior from Syracuse, New York. In addition to his major in Graphic Design, he will graduate with a Digital Design Fabrication minor. His process combines digital and analog techniques, inspired by the world around him, resulting in a continuously evolving body of work. In addition to design, Bryce enjoys all forms of art, whether it’s writing and performing music or painting and drawing from observation. 
 
 title: "Night Shifts"
 thumbnail:
   src: "project_sm2.webp"
-  alt: 'A title "Night Shifts" shift back and forth across the screen the letter "I" grows and shrinks informing this movement. Above, a stop motion animation of cartoon characters hold pitchforks, perpetually guarding an opening and closing gate. In the background is an abstraction of color and light glowing and dimming as the video loops.'
+  alt: 'A title "Night Shifts" shifts back and forth across the screen the letter "I" grows and shrinks informing this movement. Above, a stop motion animation of cartoon characters hold pitchforks, perpetually guarding an opening and closing gate. In the background is an abstraction of color and light glowing and dimming as the video loops.'
 images:
   - src: "project_2.jpg"
     alt: "A colorful abstraction of cartoon characters combined, with texture."
@@ -26,4 +26,8 @@ images:
     size: 1
 ---
 
-Inspired by the dedication of clinical staff, including my family and friends, I volunteered at The Valley Hospital in Paramus, NJ, to design a gratitude recognition solution tailored to their needs. Throughout this journey, I developed a gratitude initiative involving over 40 nurses and clinical staff. The goal was to identify the strengths and weaknesses of their existing digital gratitude system through observational research, surveys, and interviews. The final result is a user-centered digital recognition system designed to uplift clinical staff through meaningful peer-to-peer recognition, various public recognition methods, and integrated rewards. Thank you to The Valley Hospital, Brianne De La Rosa, Jordan Minnema, and the clinical staff who participated in this project.
+**Night Shifts** explores experimental design through the visual and emotional language of night. I’m interested in how design can expand beyond direct communication, becoming more expressive, process-based, and open-ended. Night serves as a framework for this exploration, shaping my design process and output.  
+
+Personally, night is a time of focus, solitude, and freedom. It has few rules, and allows for more intuitive making. Visually, night transforms our world. Light becomes fragmented and details are obscured, creating unsettling conditions. These qualities influence my approach to design, experimenting through abstraction, texture, and layering. 
+
+The outcome exists as a physical zine, alongside a series of posters and projected animations that interact with one another, combining digital and analog processes. Together, these elements form an immersive visual experience that reflect the atmosphere of night and the experimental process used to create it. This project invites viewers to consider design as a space for exploration, intuition, and discovery. 

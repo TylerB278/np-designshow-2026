@@ -8,19 +8,19 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://jubileeharwood.myportfolio.com/
 bio: |
-  Dylan is a graduating senior from Queens, NY. Their design specialties include user experience, motion graphics, and typography, all of which make an appearance in their thesis project. They take inspiration from their love of music and can't finish a work session without playing a TheWeeknd song or two. In their spare time Dylan enjoys playing video games and watching TV.
+  Jubilee is a graduating senior from Queensbury, New York. Her design interests include package design and illustration. Jubilee incorporates her love of illustration into many of her design works, including her thesis project. She also enjoys blending physical art and digital art, which is prevalent in her thesis project and gives it a unique, personal touch. In her spare time, Jubilee enjoys eating ice cream with her teeth or breaking her phone.
 
 title: "Backyard Beetles"
 thumbnail:
   src: "project_1.gif"
-  alt: "Jubilee's thesis project title!"
+  alt: "Jubilee's thesis project title"
 images:
   - src: "project_2.jpg"
-    alt: "Two-7 spotted ladybugs sitting on some nasturtiums!"
+    alt: "Two 7 spotted ladybugs sitting on some nasturtiums"
     size: 2
   - src: "project_3.jpg"
-    alt: "Elderberry borer beetle enjoying an elderberry tree!"
+    alt: "Elderberry borer beetle enjoying an elderberry tree"
     size: 2
 ---
 
-_The Color “Violet”_ is a website that documents interactions with shades of violet. It explores the idea that only one color is needed to design. Focusing specifically on violet, a neutral tone with few emotional associations that allows for flexibility and experimentation. Inspired by the circadian rhythm, the natural 24-hour clock that regulates our behavior in response to the environment, this project creates a color palette mapped to each point in the cycle. It's a time-based color system that reflects emotions and experiences using only one color. The website functions as a personal visual archive that blends structured grid layouts with spontaneous, process-driven design play. Through various tools, geometric forms, and typographic experiments, _The Color “Violet”_ becomes a multimedia design exploration centered on the emotional and conceptual potential of designing with a single color, demonstrating how violet can influence mood, rhythm, and visual storytelling.
+Ladybugs are often considered a symbol of luck today, but have you ever stopped and wondered where that idea comes from? The Ladybug's reputation comes from their diet of harmful pests that feed on our plant life. **Backyard Beetles** is an interactive prototype that highlights beetles found in New York through illustration and information. By depicting beetles in a playful, illustrative light, Backyard Beetles explores different visual approaches to reinterpreting beetles, aiming to break the negative connotations associated with them. Many beetles are crucial to our environment, and Backyard Beetles aims to inform the public and break the negative “beetle stigma.” I hope you enjoy scrolling through these beetles as much as I enjoyed creating them!

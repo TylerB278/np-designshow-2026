@@ -8,7 +8,8 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://angelinasav-com.l.ink/
 bio: |
-  Jess is a graduating senior from Hampton Bays, NY. Their design specialties include illustrations, type design, and branding, all appearing in their thesis project. They take inspiration from whatever interests them at the moment, which is currently J-pop and video games. Whenever they aren't pulling all-nighters, Jess enjoys making jewelry, drawing their original characters, and discovering new music!
+  Angelina Savino is from New York and is currently completing her BFA at SUNY New Paltz. She is drawn to things that feel strange or unexpected, often pulling inspiration from fantasy, music, and the small,
+  random details she encounters day to day. She tends to fall down creative rabbit holes, whether in photography, painting, or niche internet finds.
 
 title: "Faces of the Divine"
 thumbnail:
@@ -23,6 +24,8 @@ images:
     size: 2
 ---
 
-Neon art and signage are everywhere, yet we often walk past them every day without noticing their craft and beauty, their rich history, and or the community in which they exist. _I HEART NEON_ is a response to discovering more information about neon, and wanting to share my love and ongoing connections with the community.
+**Faces of the Divine** is an interactive, card-based system that explores Ancient Greek deities through layers of identity, classification, and perception. Drawing from the historical use of epithets, which are alternative titles that highlight different aspects of a god, this project investigates how a single figure can embody multiple, sometimes contradictory meanings. 
 
-This photobook serves as a collection of pure eye candy; colorful, one-of-a-kind, neon signs. Alongside images and diagrams, the photobook also includes a brief history of neon and a crash course on how neon signs are made. I interviewed various artists and design studios who talk about their love of the medium, the inspirations they carry with them, and the current projects and restorations they and their teams are currently working on.
+The system includes two types of cards in one box, allowing users to reinterpret each deity in relation to different concepts. Solid cards focus on individual gods and goddesses and their associations. Transparent cards represent broader ideas, such as connections to the earth, sky, love, war, or chaos. 
+
+This system encourages users to build their own understanding, emphasizing that ideas about gods are not fixed but shaped by perception and context. A booklet included with the cards guides the user’s actions and helps interpret the results. 

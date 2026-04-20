@@ -7,24 +7,26 @@ headshotAlt: "headshot_2.png"
 weblink: https://the-3mb3r-emporium.carrd.co/#thesis
 portfolio: https://the-3mb3r-emporium.carrd.co/
 bio: |
-  Alyssa is a graduating senior from Staatsburg, NY their design interests are package design and website design and poster design and telling messages of which make an appearance in their thesis project. She hopes to make a career in packaging design but also still be able to do poster/web design as well. In her spare time she loves to watch different TV shows and read as well as spend time with her family and her pets. 
+  Marissa is a graduating master’s student of the Digital Design and Fabrication M.A. program with a background in Digital Art (B.F.A) from the New York Institute of Technology.
+  Their specialties include 3D modeling, mesh editing, 3D printing, and fabrication techniques. They have a passion for drawing and creating and find inspiration all around them.
 
 title: "The Cabinet of Curiosities"
 thumbnail:
   src: "project_ed3.png"
-  alt: "Thesis pattern drawing"
+  alt: "Cyclops and Paleoloxodon Falconari Mirror"
 images:
   - src: "project_2.png"
     alt: "Griffin Bust with Dinosaur (Protoceratops Andrewsi) counterpart"
     size: 1
   - src: "project_1.png"
-    alt: "VOTE YES: A Timeline of Women’s Suffrage Posters 1848–1920 posters"
+    alt: "Thesis pattern drawing"
     size: 1
   - src: "project_4.png"
-    alt: "VOTE YES: A Timeline of Women’s Suffrage Posters 1848–1920 timeline"
+    alt: "Samurai Crab with Oni counterpart"
     size: 1
   - src: "project_5.png"
-    alt: "VOTE YES: A Timeline of Women’s Suffrage Posters 1848–1920 timeline"
+    alt: "Extinct Silphium seeds with roman coin replicas depicting the plant and the origin of the heart icon"
     size: 1
 ---
-Throughout the Women's Suffrage Movement in the United States, the use of posters was an important part of its success with the ability to spread messages to a wider audience. In this project, I hope to show the evolution of Women’s Suffrage posters and the fight for the right to vote, including background information of key events. Beginning at the Seneca Falls Convention in 1884 to 1920 when the 19th amendment was passed, the project includes an interactive website timeline of the Women's Suffrage posters and shows the progress and history of the movement. With everything going on in the country, it is hard to keep fighting but together we can have an impact and we can do great things if we all vote for what we believe is right.
+
+‘There is a kernel of truth behind every myth,’ are words I found truly inspirational for this project. My thesis explores showcasing my proficiencies in prop and model creation,by creating an exhibit that engages my viewer with a digital experience as well. My intention is to not only showcase my work but the research around the subjects I am depicting as well. I am housing artworks and recreations of mythical objects and real creatures in this cabinet of curiosities format to examine their relationship to archaeological and paleontological finds. 3D printing and other digital fabrication methods creates a level of accessibility to objects one might not normally be able to touch or see and experience. Not only am I looking to showcase the visual relationship between nature and myth, but also show how this physical and tactile experience enabled that exploration.

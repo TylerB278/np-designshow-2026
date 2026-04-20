@@ -8,9 +8,10 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://kiaranlynch.com/
 bio: |
-  Madison is a graduating senior originally from Massapequa, NY. Her design specialties include branding, ideation, and advertising. She takes her inspiration from scanning antique stores, scrolling on Pinterest and trying her best to think outside the box. In her spare time Madison enjoys going to the gym for her mental and physical well-being as well as taking care of dogs and cats for neighboring clients.
+  Kiaran Lynch is a SUNY New Paltz senior from Stillwater, New Jersey, with design specialties in publication, branding, and illustration; all of which are core aspects of his thesis project.
+  Kiaran finds inspiration in minimalism, journalism, and photography. Outside of work, Kiaran enjoys comic books, art history, and camping.
 
-title: "Read•ing"
+title: "READING"
 thumbnail:
   src: "project_1.gif"
   alt: "An editorial-style title card introduces the project READING, with the word itself set in a large, serif typeface. Beneath it, smaller text reads “Books & Bookstores in the Digital Age.” Hand-drawn illustrations of books appear scattered around the edges, as if floating or drifting through space, suggesting both the abundance and fragmentation of reading today. At the center stands a self-portrait character rendered in a soft blue and black ink style, holding a flag with a simple book icon. A thin horizontal divider separates the subtitle from the phrase “A Documentary and Magazine Series,” clarifying the multi-format nature of the work."
@@ -23,4 +24,8 @@ images:
     size: 2
 ---
 
-How ready do you feel to be an adult? The clock is ticking, and soon enough, we will be out of college and into the real world. The expectation to have all the answers can feel overwhelming, especially when the unexpected occurs. For this reason, it became clear why many of my peers expressed fear about the next phase of life after graduating college. Being fully mature in society refers to owning a home, managing finances, and establishing healthy habits in our daily lives but what if I’m too late or what if I do not know where to begin or just flat out don’t know what I’m doing? To reach the target audience of young adults graduating SUNY New Paltz, I talked to a range of people who shared personal stories of when things didn’t go as planned. I then used the stories to create an “adult” version of the well-known game, Chutes and Ladders, with a couple twists such as “Let’s Vote” and “Sweet Treat” cards. The game is designed to help young adults relate to real-life experiences in a fun, relatable way. It shows that setbacks in adulthood are normal, growth takes time, and sometimes the best thing you can do is laugh and learn.
+How have books maintained relevancy in an increasingly digital age?
+
+**READING** is a multi-format series comprising an interview-driven magazine and a short documentary film covering the changes in reading habits and the growth of bookstores in the contemporary era. With perspectives from industry leaders and small-scale vendors based in New York City, this collection of raw interviews offers a unique outlook on how reading habits have changed, and where literature is headed today. The magazine’s art direction integrates a self-reflective narrative, expressed through a character and combined with field photography, to explore the author’s journey, while the subsequent video adopts a talking-head documentary style.
+
+READING is an experiment in design research, publishing, filmmaking, and conversation.

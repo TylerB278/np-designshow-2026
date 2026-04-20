@@ -7,7 +7,8 @@ headshotAlt: "headshot_2.png"
 weblink: http://thechetshow.com/
 portfolio: https://michaellosquadro.com/
 bio: |
-  Jake is a graduating master student from Digital Design & Fabrication with a background in Mechanical Engineering. His specialties include 3D modeling, fabrication, and microcontroller electronics, which are all showcased in his thesis project. In his free time, Jake enjoys tinkering with new projects, going on walks, and listening to music.
+  Michael Losquadro is a multi-media designer who grew his fundamental skills at SUNY New Paltz through the graphic design program as well as the film and video studies program.
+  He currently specializes in web design with knowledge of web accessibility. He hopes to continue building on UI/UX skills.
 
 title: 'Design in Film: "The Chet Show"'
 thumbnail:
@@ -22,4 +23,8 @@ images:
     size: 2
 ---
 
-My thesis uses nostalgic forms to explore how play changes over time. It reimagines childhood toys as functional desktop tools. Inspired by the colorful, interactive designs I grew up with, I’ve redesigned them into devices that blend fun with everyday utility. This project isn’t just about revisiting the past, it’s about showing how play matures. In childhood, play is rooted in imagination and open-ended discovery, free from specific purpose. As time passes, that instinct often shifts toward productivity and structured routines. Designing, modeling, and building reflects that evolution. Today, play for me is embedded in process-oriented creativity, still joyful and rich in imagination, but now shaped by intention and purpose. By combining familiar, playful aesthetics with practical features, I highlight how play doesn’t disappear as we grow up, it adapts. Whether through form, color, or function, the goal is making a workstation more fun and interactive while inviting viewers to rethink the line between work and play, bridging who we were with who we are today.
+**“The Chet Show”** is a short film series created by Michael Losquadro and Candice Leach. The series follows Chet, a puppet-college student living alongside his roommate and good friend Todd. The series had an active two-year production cycle with three episodes produced: “Chet Goes to the Doctor”, “Chet Goes to a Party” and “Chet Falls in Love”. 
+
+While working on this project a lot of problems arose that needed a specific skill set of a designer. How problems were handled, how time was managed, as well as prop production, storyboarding and color theory all benefited from a designer’s perspective. This project provides documentation on the pre-production, production and post production of The Chet Show.  
+
+Visit the website at: (thechetshow.com)[http://thechetshow.com/]. 

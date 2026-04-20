@@ -7,7 +7,9 @@ headshotAlt: "headshot_2.png"
 weblink: https://www.figma.com/proto/vphF4qt0NdpovbXFzGFOfn/Thesis-Website?node-id=60-166&t=JE2dVHcQOe68YnGq-1
 portfolio: https://drive.google.com/drive/folders/1ItkgcjmalpECEY0dS8dcaP8uNo8CGUYk?usp=sharing
 bio: |
-  Nate is a senior graduating this Fall from Suny New Paltz, their design specialties include illustration and layout design, both of which are featured in their thesis project. A creative goal Nate will achieve in the future is to contribute to a story in a studio setting or through freelance work, whether by helping others bring their stories to life or developing their own. What keeps Nate motivated every day is the thought that there’s so much to create, yet so little time.
+  Nicky is a graduating senior from SUNY New Paltz. Her design and creative interests include print, typographic, advertising design, as well as printmaking, drawing, and illustration.
+  Her fascination with environmentalism, traditional art, and printmaking has heavily influenced her thesis project.
+  Outside of the studio, you can find Nicky playing ultimate frisbee, hiking in the Catskills, or making food for her friends.  
 
 title: "Plant Local"
 thumbnail:
@@ -28,5 +30,7 @@ images:
     size: 2
 ---
 
-Have you ever had an idea that you wanted to bring to life? My project is a comic book pitch that explores story development, worldbuilding, and character design. This project is dear to me because it revives a dream I once had, offering a new path to follow. What inspired me was my love for animation and how you can create life through drawings. This comic is for anyone who wants to see my creative process; from writing a story to developing a world and crafting characters. I approached it by breaking down each section of comic creation, studying and refining my choices step by step. I hope to inspire other creative individuals to embark on their own creative journey. Most importantly, this project taught me it’s never too late to create something you’re passionate about, regardless of what others think.
+Non-native species, like grass, are prevalent in the majority of yards throughout the U.S. These non-native plants require extensive upkeep to survive in conditions that they are not genetically adapted to, meaning more money, water, and time are spent on plants not suited to our climate. By shifting our focus to planting native species, we can begin to circumvent many sustainability issues of the average garden.  
+
+My thesis project, **Plant Local**, merges my love of digital, print, and traditional art to raise awareness of native plants and their ecological benefits. Collaborating with my good friend, Rika Laser (MFA Printmaking), we created wildflower-seed infused paper that is biodegradable and serves as a medium for public engagement. The seed infused paper also serves as a physical asset that compliments the Plant Local awareness campaign.   
 

@@ -8,7 +8,7 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://katiehumphrey601.myportfolio.com
 bio: |
-  Kat is a graduating senior who has been drawn to packaging design since she could walk. The admiration began at age four, when she started stashing ice cream wrappers from the neighborhood ice cream man behind the living room couch. She draws inspiration from her extensive perfume and packaging collection, as well as album covers, billboards, and ads from the music industry…especially anything from Lady Gaga.
+  Brooke Scheuermann is a graduating senior from Sparrow Bush, NY interested in print design and branding. She is drawn to expressive uses of color and designs that feel inclusive and accessible, aiming to make design feel open to everyone.
 
 title: "Between Days"
 thumbnail:
@@ -23,7 +23,9 @@ images:
     size: 2
 ---
 
-Procrastination is the act of delaying something despite the negative consequences that come along with it. The common answer to why we procrastinate may be a lack of time management or laziness, but this habit stems far beyond those ideas. It’s a misunderstood habit, leaving many of us stuck in this cycle of stress and negative consequences.
+**Between Days** is a community driven newsletter focused on shared experiences, storytelling, and connection. The goal of this project is to respond to the isolation many people feel when navigating their own thoughts, believing they’re alone, or not having someone to understand. By calling for reader submissions, Between Days creates a space where personal stories become collective, allowing the reader to see themselves in others. 
 
-In order to overcome the habit of procrastination, it’s important for us to understand how we work and what keeps us in this cycle. Procrastinators fall under six different types of workers: the Worrier, the Dreamer, the Defier, the Over-Doer, the Crisis-Maker, and the Perfectionist. Finding which category you fall under is your first step to breaking away from this cycle. Over the past year, I’ve done research on the topic by reading articles, talking with psychologists, and holding workshops on campus to gather stories from students. _What’s Your Procrastination Type?_ is an illustrated guidebook for students to understand their work style, the causes of their procrastination, and offers tools to manage the challenges that many students face. 
+The newsletter includes sections that balance vulnerability with relatability and lighter themes. Community submitted stories are the core of each issue, offering anonymous, varied perspectives on hard times and emotions. The commentary and rant sections explore personal challenges, how your emotions are viewed by others, and the frustration of being misunderstood by others. These sections aim to validate the reader, or provide a space of learning empathy through reading other perspectives and experiences. 
+
+To offset heavier themes, Between Days incorporates hope along with playful illustrations, color, and design elements that bring approachability to the newsletter. Through this blend of content, Between Days encourages empathy and validation while intending to bring the stigma around mental health closer to an end. 
 

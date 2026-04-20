@@ -7,7 +7,8 @@ headshotAlt: "headshot_2.png"
 weblink: https://www.behance.net/gallery/247333963/Poker-Peace
 portfolio: https://kyleehenry.framer.website/
 bio: |
-  Leigh is a graduating senior whose design specialties include branding and character design, which can be seen in their thesis project. They take inspiration from their love of video games and enjoy listening to Dark Souls boss music to motivate them while they work. In their spare time, Leigh writes fictional stories, bakes sweet treats, and doodles in the margins.
+  Kylee Henry is a graduating senior from Riverdale, NY, and a multidiscplinary designer with experience in motion, branding, and UI/UX design.
+  Her interest in design began at age 11 when video editing became a full-time hobby. When she's not designing, she's reading thriller novels, making playlists on Spotify, or trying new foods in NYC.
 
 title: "Poker Peace"
 thumbnail:
@@ -25,4 +26,6 @@ images:
     size: 1
 ---
 
-Character and avatar creators have existed for years. You may have designed your friends on the Sims, or looked up a simple avatar creator online to use for a presentation. The goals of these creators vary, but they work on the prospect of being able to “create anybody.” However, not all of these creators have the necessary range of body types, skin tones, or representation to be inclusive of a variety of people. My project, _<body>_, is an avatar creator designed to allow users to create themselves without sacrificing aspects of their identity, such as disabilities, religion, sexuality, or gender expression. Ideally, when using the _<body>_ website, it’s more than just creating anybody, you can create everybody. This website was designed on GitHub and edited through HTML and CSS coding to be more accessible, with help from Shauna Keating and Kristoff Lalicki. This outcome captures the unique student body of the SUNY New Paltz campus. Through discussion and user-testing with students, I was given insight into what they felt represented themselves on a personal level. Everyone should be able to create an avatar that represents themselves without sacrifice. I hope _<body>_ can be this for you.
+**Poker Peace** is a mobile platform designed to redefine the online poker experience for women by providing a sophisticated, low-stakes environment focused on education and community. Traditional poker applications, such as the World Series of Poker app, often rely on overstimulating, "Vegas-style" aesthetics, characterized by aggressive colors and chaotic interfaces that can feel unwelcoming or exclusionary to new players. My project challenges this industry standard by introducing a modern, minimalist design language that prioritizes clarity and calm over sensory overload.  
+
+Catered specifically to women, Poker Peace addresses the social friction often encountered in male-dominated tournament spaces. By removing the "chaos" and potential intimidation found in mainstream online rooms, the app allows users to master the game’s mechanics and strategy at their own pace. The visual identity utilizes a soft yet professional palette to create a sanctuary for learning. Poker Peace transforms poker from a high-pressure gamble into an modern tool for empowerment, ensuring that the only thing a player needs to focus on is her next move. 

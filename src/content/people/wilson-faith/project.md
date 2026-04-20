@@ -8,7 +8,8 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://2026show.newpaltz.design/
 bio: |
-  Quinn is a graduating senior from Buffalo, NY. She's been a lifelong doodler on tests, notebooks, envelopes... skin. She also enjoys scream-singing music in her car, trying interesting combinations in the kitchen, and a good Korean drama. 
+  Faith Wilson is a designer from Chester, NY whose interests live at the intersection of storytelling and emotion. Guided by curiosity and a strong passion for creation, she often uses music as a foundation for her ideas,
+  letting it influence both process and outcome. Her work focuses on translating feeling into physical form to create content that exists beyond the screen. She approaches design as something to be felt as much as it is seen. 
 
 title: "Afterburn"
 thumbnail:
@@ -29,4 +30,8 @@ images:
     size: 2
 ---
 
-My thesis explores doodling as both a form of personal expression and an intentional communication tool. Beginning with collaborative sessions where participants express themselves freely on shared parchment—highlighting individual styles without the pressure of a final product—the project examined how doodling creates space for authentic self-expression. It then evolved to demonstrate how these same informal visual techniques can be used to break down complex topics and communicate ideas effectively. Through participatory experiences and a series of newsletters on Substack, my project positions doodling as a legitimate design practice with distinct advantages over more formal visual communication methods. 
+Music is felt as much as it is heard. It carries an atmosphere that shifts with the listener. **Afterburn** explores this sentiment by translating electronic music through temperature, asking how listening can become tangible. Using a personal temperature scale, guided by intuition and sensory mapping, ten songs are interpreted as cold, warm, or hot. Through print, elements like texture, color, and composition express how each track holds, builds, or releases energy. These interpretations begin digitally and are further curated through analog processes such as screenprinting, embossing, and hot foil stamping, allowing physical form to amplify emotional resonance.  
+
+Afterburn is a system that invites curiosity through different formats including a live performance collaboration, case study, zine, and print collection. 
+
+What stays with you, and how does it feel? 

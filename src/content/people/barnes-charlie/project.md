@@ -8,7 +8,8 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://cdbbarnes.myportfolio.com
 bio: |
-  Allison O’Connor is a graduating Graphic Design student with a minor in Art History. She has spent her last two summers working in museums and galleries, and she has the goal to work fulltime in a museum. Her last two years at New Paltz, she has been interested in analog photography; she takes inspiration from German Expressionist films and surrealism.
+  Charlie Barnes is a senior graphic design student with a minor in international relations from Saratoga Springs, NY. He is passionate about sports, analytics, data visualization,
+  and representing them through design, as long as it’s not the Yankees. 
 
 title: "Above Average"
 thumbnail:
@@ -29,6 +30,4 @@ images:
     size: 2
 ---
 
-In a digital world of instant gratification, the limitations of black and white analog photography felt new and exciting. Analog photography captures images with light sensitive film and the film is developed with a chemical process. The image is printed in a darkroom with light sensitive paper and more chemical baths. There are limitations as to how the images can be manipulated through analog techniques, such as dodging, burning, chemicals, and toners. As graphic designers we have endless digital editing tools. How can analog limitations lead to creative storytelling? What can we do in the darkroom that can’t be done in Photoshop?
-
-_Biting My Tongue_ is a photo book that is the result of working with the constraints of analog limitations. Taking a self-portrait on film is very poetic. I cannot see what I am capturing until the film is developed, and I cannot click a button to erase a moment. All of the mistakes are mine as I refuse to let anyone look through the viewfinder or touch the shutter. Iconographic symbols and typographic choices connect the images and text. I embrace the constraints of the medium by creating my own sets with scrap paper, found objects and random lights.
+The NBA is full of both stars and busts, but the players that often receive the least amount of recognition are the ones that are simply seen as “average”. **Above Average** takes an in-depth look into the 2024/25 NBA season, scrubbing stats from databases to set a baseline for average. I made a shortlist of players that accrue enough “points” for being average in each stat. However, when utilizing advanced metrics like LEBRON and RAPM for a more in-depth look into their performance, each player ends up being much more interesting than the baseline would lead you to believe. Through data visualization and information design, many players are shown to be underrepresented on defense, are not paid what they’re worth, or contribute less because they don’t play enough minutes. Although players might seem completely average at first glance, Above Average proves that they're more than what the box score says. 

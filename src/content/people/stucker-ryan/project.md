@@ -7,7 +7,7 @@ headshotAlt: "headshot_2.png"
 weblink: https://new-impressions.netlify.app/
 portfolio: https://ryan-stucker.dev/
 bio: |
-  Myrkos is a soon-to-be graduating senior from a little place known as the Bronx. Some of his specialties in design include branding and typography, which he gets his appreciation for from the years spent designing original characters on his own time.
+  Ryan is a multidisciplinary graphic design student with a focus on web design and 3D modeling. When he is not working, you can find him gaming, lifting, or catching up on endless hours of lost sleep.
 
 title: "New Impressions"
 thumbnail:
@@ -25,5 +25,6 @@ images:
     size: 1
 ---
 
-_The Back of Your Notebook_ is a thesis that aims to help artists who struggle with using their sketchbooks as the outlet of creativity and ideas that it's meant to be. When you hesitate to put pen to paper because of all these thoughts and worries about each line going wrong, it's a sign to go back to the basics: drawing for the sake of drawing.
-_“The Back of Your Notebook”_ references your middle school days of turning your notebook to the last page to doodle silly things. I aim to remind artists that you don’t have to make a masterpiece every time you draw. We seem to forget sometimes that your sketchbook isn’t meant to be your portfolio. It’s a playground where you can experiment and play with ideas however you want.
+**New Impressions** documents the design and production of a fully 3D printed letterpress and type pieces, reimagining the historical letterpress through contemporary technologies. Because the type pieces are interchangeable with traditional metal pieces, the design process was unique. The 3D-printed letterpress and its printed type pieces were tested using both traditional equipment and techniques. 3D modeling was also used to accelerate the illustration process.
+
+I designed and built a website to document the process through the lens of a fictitious open-source letterpress company that produces 3D-printed letterpress and type piece designs. The site would allow users to download and print 3D files, shop for prefabricated parts, and request custom designs. Offering guides to learn how to print, build, and operate the letterpress and type pieces. An extensive image gallery details the company’s research, design, and development of the 3D-printed letterpress and type pieces.

@@ -8,7 +8,9 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://gingerdefino.com/
 bio: |
-  Celina Sciuto is a multidisciplinary designer from Poughkeepsie, NY. She is a self-proclaimed hobby collector, two of which are visible mending and sewing, which inspired her thesis project. Outside of the studio, you can find her destroying her friends in Mario Kart, making new music playlists, or scouring thrift stores for vintage craft supplies.
+  Ginger Defino is a graduating senior from Saugerties, NY. Her work is driven by intentional color and visuals that balance bold, vibrant choices with a clean and cohesive aesthetic.
+  Through her thesis, she channels her passion for community, sustainability, and lively visual storytelling into an experience that is as functional as it is fun. When she isn't designing,
+  Ginger is tackling DIY projects, listening to audiobooks, or planning her dream home and wardrobe on Pinterest.
 
 title: "Re:Wear Hudson Valley"
 thumbnail:
@@ -26,6 +28,8 @@ images:
     size: 1
 ---
 
-What do you do with your clothes that aren’t perfect anymore? Do you immediately throw them away and buy a new piece, or do you try to fix what’s broken? Mending one’s clothing used to be essential, not a choice. Before the introduction of fast fashion in the late 20th century, it was very common for people to make repairs to their clothing for various types of wear and tear. Nowadays, most people throw away their imperfect clothing; this, paired with overconsumption is creating an excess of textile waste that is harmful to the environment.
+**Re:Wear Hudson Valley** is a website built to make sustainable fashion easy to find, explore, and enjoy right here in the region. Whether you are a local resident or just visiting, the Hudson Valley has a thriving sustainable fashion community worth exploring. 
 
-The aim of this project is to empower young adults to extend the life of their beloved clothes through visible mending and repair. _Mend What Matters_ is an instructional guidebook for sewing/mending beginners, showcasing the most essential methods and techniques to get the job done. Through collage, illustrations, and found objects the book provides resources and tutorials for visible mending.
+The site features an interactive map where you can discover vintage shops, thrift stores, fabric stores, upcycling studios, repair shops, and locally-made sustainable brands all in your own backyard. The Community Spotlight page highlights the people and businesses bringing the community together through events, workshops, and creative initiatives. 
+
+At its heart, Re:Wear Hudson Valley believes that clothing should connect us. When we shop with intention and support local businesses, we push back against the harmful cycles of fast fashion that affect workers, our health, and our environment. 

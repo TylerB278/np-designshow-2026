@@ -7,7 +7,8 @@ headshotAlt: "headshot_2.png"
 weblink: https://www.behance.net/gallery/247517193/Screenies-The-Lost-Broadcast
 portfolio: https://clarkmolfetta.framer.website/
 bio: |
-  Melina Devine discovered her love for graphic design in 9th grade and has been obsessed with it ever since. Growing up in the Hudson Valley, where art and nature are deeply intertwined, she developed a hope to bridge both worlds. Though her career path led her to design, Melina maintains a profound appreciation for nature, literature, and art. Now, Melina is focused on transforming her thesis project into a viable business, bringing together her creative talents and her love for nature and literature. 
+  Clark Molfetta is a designer from Fairfield, NJ, graduating from SUNY New Paltz. His design specialities include branding and package design, though his skills span across multiple disciplines.
+  His work is characterized by a bold, fun, and colorful aesthetic. Outside of design, Clark enjoys music, fashion, and spending time with his friends. 
 
 title: "Screenies: The Lost Broadcast"
 thumbnail:
@@ -25,4 +26,8 @@ images:
     size: 1
 ---
 
-Fables & Folk is a brand that creates discreet wellness products based on Aesop Fables. We transform commonly discarded items—matchboxes, journals, and zines—into treasured possessions designed to be kept and valued rather than quickly disposed of.
+**OBJECT01D** is a blind box collectible brand where every unboxing is a surprise. Each figure is sealed away, so you never know what you're taking home until the box is open. The first series, Screenies, features a cast of 10 figures, each rocking a screen for a head. 
+
+Screenies drops with a "Lost Aesthetics" theme, pulling from nostalgic and largely forgotten internet subcultures like Vaporwave, Liminal Space, and Frutiger Aero, just to name a few. This line captures that feeling of stumbling onto something weirdly familiar, like a memory you can't quite recall. 
+
+This project covers the full scope of branding and package design, from character design to product presentation, all brought together by a bold, colorful, and cohesive visual world. 

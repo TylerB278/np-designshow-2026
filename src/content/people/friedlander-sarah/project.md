@@ -8,7 +8,9 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://2026show.newpaltz.design/
 bio: |
-  Daniella Rivera, a graduating senior from Long Island, NY, loves bold visuals, playful branding, and designing with emotion in mind. Her thesis project, Resonance, dives into how music connects us through feeling and interaction. When she’s not designing, she’s probably gaming, vibing to Ricky Montgomery, or enjoying the rain with a new playlist on repeat.
+  Sarah Friedlander is a graphic designer from Long Island who specializes in creative thinking, ideation, and building cohesive brand narratives. With an entrepreneurial mindset,
+  she’s always seeking new ways to connect, create, and grow through design. Her favorite part of the design process is the first step of ideation in a notebook with an architecture pencil,
+  just letting the out of the box ideas flow. She loves to design anywhere but a desk, with the most popular spots being on a hammock outdoors or on the living room couch. 
 
 title: "The Progress Project"
 thumbnail:
@@ -26,6 +28,10 @@ images:
     size: 1
 ---
 
-_Resonance_ is an interactive card game that explores the deep and often surprising connections between music and emotion. Rooted in personal experience and collective memory, the game invites players to respond to situational prompts using emotion cards that reflect how specific songs make them feel. With a minimal yet expressive design language—color-coded shapes symbolizing different emotions—Resonance encourages empathy, reflection, and conversation.
+We celebrate the big moments like graduations, birthdays, and major milestones, but the truth is that most of our growth happens in the small victories we don’t stop to notice. These everyday accomplishments such as making your bed and going grocery shopping deserve recognition, even more than these big accomplishments do because they are the stepping stones that led you to that goal. 
 
-The game’s mechanics reward emotional alignment, making each round a window into how individuals interpret and connect through a sonic experience. Inspired by music therapy, group dynamics, and the psychology of music, this project blends graphic design, game design, and emotional research into a playful yet thoughtful experience. Resonance invites players to listen, feel, and discover what resonates.
+If you only focus on big achievements, it’s easy to feel like nothing you’re doing really counts. You can be making progress every day and still feel stuck, which gets frustrating fast and that’s usually where burnout starts. 
+
+I realized people need a reminder to pause and recognize that they are already in a good place. **The Progress Project** is a growing collection of community responses to the prompt, “I am proud of myself for…”. These responses come together as an interactive installation that shows what progress actually looks like. It also creates a sense of connection, helping people see they are not alone in what they’re working through. 
+
+The installation first took place on April 8, 2026 in the Sojourner Truth Library, where responses were collected and connections were made. It grounded people in the idea that what they are doing is worth celebrating. The project now lives online, extending its message to a wider audience. 

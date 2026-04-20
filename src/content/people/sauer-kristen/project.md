@@ -7,7 +7,8 @@ headshotAlt: "headshot_2.png"
 weblink: https://splitli.framer.website/
 portfolio: kristensauer.works
 bio: |
-  Jazmyne Daily-Simpson is a graphic design BFA and Art History minor with a passion for branding and print design. She loves adding hand drawn illustrations and techniques to her work and can usually be found in the labs scanning anything and everything. When she’s not designing, Jazmyne enjoys running, knitting, and visiting art museums.
+  Kristen Sauer is a graduating senior from SUNY New Paltz majoring in Graphic Design. Her focus is on web design, UI/UX design, and brand identity. She strives to create engaging experiences for users through her work,
+  which is largely inspired from her love of fitness and wellness. When Kristen’s not designing, you can find her at the gym, walking aimlessly to hatch eggs on Pokémon Go, or cooking up a new Instagram recipe.
 
 title: "Splitli"
 thumbnail:
@@ -15,14 +16,16 @@ thumbnail:
   alt: 'Splitli promotional horizontal layout. A woman in a black and white polka dot sports bra working out in the gym. She is pictured to her left, curling an EZ curl bar with weights on both sides. The text on the image reads “Start Your Split. Start Your Journey.”'
 images:
   - src: "project_2.jpg"
-    alt: 'A silver Apple MacBook Pro 16-inch laptop is displayed with Splitli’s hero spread pictured on the screen. The laptop is on a white table surface, the scene is monochromatic aside from the laptop screen. The spread contains the heading “Structure is the secret. Smart training starts with how you split.” The opening image is of a woman, pictured backside in a green training bra performing a pull up.'
+    alt: 'A silver Apple MacBook Pro 16-inch laptop is displayed with Splitli’s hero spread pictured on the screen. The laptop is on a white table surface, the scene is monochromatic aside from the laptop screen. The spread contains the heading “Structure is the secret. Smart training starts with how you split.” The opening image is of a woman, pictured backside in a green training bra performing a pull up. '
     size: 2
   - src: "project_3.jpg"
-    alt: 'A silver iPhone 16 Pro is displayed with Splitli’s hero spread pictured on the screen. The phone is on a white table surface, the scene is monochromatic aside from the phone screen. The spread contains the heading “Structure is the secret. Smart training starts with how you split.” The opening image is of a woman, pictured backside in a green training bra performing a pull up.'
+    alt: 'A silver iPhone 16 Pro is displayed with Splitli’s hero spread pictured on the screen. The phone is on a white table surface, the scene is monochromatic aside from the phone screen. The spread contains the heading “Structure is the secret. Smart training starts with how you split.” The opening image is of a woman, pictured backside in a green training bra performing a pull up. '
     size: 1
   - src: "project_4.gif"
-    alt: 'A GIF is displayed with the contents of Splitli’s website. The GIF shows twelve moving horizontal rectangles with images embedded. The page spreads shown are the landing, call-to-action, CTA buttons, Splitli’s philosophy, and a final CTA button to allow users to chronologically navigate the website.'
+    alt: 'A GIF is displayed with the contents of Splitli’s website. The GIF shows twelve moving horizontal rectangles with images embedded. The page spreads shown are the landing, call-to-action, CTA buttons, Splitli’s philosophy, and a final CTA button to allow users to chronologically navigate the website. '
     size: 1
 ---
 
-Have you ever thought about how an art studio is like a science lab? Are artists secretly mad scientists? The intersection of the two subjects gives us a deeper understanding of the techniques artists used in the past and how to preserve artwork for the future. _ArtSci’s_ art and science kits blend the two subjects together in an engaging and playful way for young audiences. The projects and lessons are made for young children and families, with playful colors and imagery found throughout each kit. The simple nature of the projects creates an accessible lesson that can be adapted to a wide range of age groups. With projects that range from making ancient frescos to contemporary art each kit will have something for all learners to enjoy. _ArtSci_ encourages kids to ask “how”, “what”, and “why” as they create and explore the world around them.
+Starting a fitness journey is difficult, but it doesn’t have to be with workout splits. A split is a workout routine that divides body parts into muscle groups to be trained on separate days. Splits are one of the most effective ways to get into shape, allowing for full body recomposition rather than simply burning calories. I spent years researching countless websites to learn proper form, technique, and routines. Over time, I realized the road to results isn’t as complicated as it seems, once you have clear, reliable information.  
+
+**Splitli** is a fitness website designed to simplify that process. It brings everything about workout splits into one accessible place so users can start their own fitness journeys with ease. Splitli includes the definition and benefits of splits, a gym glossary of common workouts, and a “find yours” section to determine your best workout routine. The website engages users through clean, modern design to reduce distractions and improve user experience. By breaking down routines in a clear and approachable way, Splitli helps users confidently begin and maintain their fitness journey without the burnout. 

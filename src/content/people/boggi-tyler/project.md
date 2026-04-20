@@ -7,12 +7,12 @@ headshotAlt: "headshot_2.png"
 portfolio: https://tyler-boggi.dev/
 weblink: https://esports-visualized.netlify.app/
 bio: |
-  Tyler Boggi is a graduating Graphic Design senior. He specializes in Branding and Front-to-End Web Design! He has an interest in designing for competition and is a competitor in Esports himself. While not designing you can find him bowling, swimming, and taking video games way too seriously. Fun fact, he designed this very website!
+  Tyler Boggi is a graduating Graphic Design senior. He specializes in Branding and Front-to-End Web Design. While not designing you can find him bowling and taking video games way too seriously. Fun fact, he designed this very website!
   
 title: "Esports Visualized"
 thumbnail:
   src: "project_1.gif"
-  alt: "Esports Visualized project title card"
+  alt: "Esports Visualized project title card with moving sketches"
 images:
   - src: "project_1.png"
     alt: "Esports Visualized project website mockup for both mobile and desktop"
@@ -31,7 +31,7 @@ images:
     size: 1
 ---
 
-Designing for competitive gaming may sound like designing for any other industry. In reality, it comes with many unique challenges that you may not encounter elsewhere. From confusion on where Esports stands in collegiate spaces, to expected skills not found in other industries, to lack of funding, and beyond. But at the same time, it comes with boundless unique opportunities to express your creativity and make designs that are truly special.
+Designing for competitive gaming, or Esports brings many unique challenges. In collegiate spaces, Esports sits between traditional athletics or students clubs and is not always well-funded or positioned. Designing for Esports requires a broad range of skills, including experiential design, 3D graphics, animation, and typography. At the same time, it offers boundless opportunities to express your creativity in the fast-paced and growing world of competitve gaming. 
 
-**Esports Visualized** is a project about expressing what makes designing for Esports so unique. Through focused case studies showing real and actively used applications, it aims to show every facet of Esports design. The entire process from making these designs has been documented on the project’s [website](https://illustrate-esports.netlify.app/) for you to see for yourself! The in-depth explanations in each case study provide an introduction to the industry and what it has to offer. From the challenges to the opportunities, come and explore the wonderful world of designing for Esports with Esports Visualized!
+**Esports Visualized** is a project about designing for Esports through focused case studies of real applications. The project’s (website)[https://esports-visualized.netlify.app/] features in-depth interviews with experts, and an introduction to the industry and what it has to offer. From the challenges to the opportunities, come and explore the wonderful world of designing for Esports with Esports Visualized! 
 

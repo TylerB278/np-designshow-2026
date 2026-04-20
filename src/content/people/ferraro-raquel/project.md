@@ -8,7 +8,7 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://raquelferraro-com.l.ink/
 bio: |
-  Cleo is a graduating senior from Waterford, NY with a passion for thoughtful, people-centered design. Their work spans user experience, branding, and illustration—three areas that come together in their thesis project, which celebrates connection and creativity. Cleo draws constant inspiration from their many favorite artists and designers, often changing their visual style multiple times in a single session just to see what sticks. In their spare time Cleo enjoys hanging out with friends, spending time outside and finding new restaurants to try.
+  Raquel is a Graphic Design major graduating this fall from SUNY New Paltz. She has an interest in editorial design, branding design and illustration. She enjoys hiking, video games, music and drawing in her free time.
 
 title: "Exploring Blackletter in Metal Music"
 thumbnail:
@@ -19,12 +19,14 @@ images:
     alt: 'A black book with a cover that reads, "Exploring blackletter in metal music"'
     size: 2
   - src: "project_3.png"
-    alt: 'The spread of a spiral bound book. On the left page is an image of Black Sabbaths "Sabbath Bloody Sabbath," album cover. On the right page is a body paragraph titled,    "Black Sabbaths, Sabbath Bloody Sabbath."'
+    alt: 'The spread of a spiral bound book. On the left page is an image of Black Sabbaths "Sabbath Bloody Sabbath," album cover. On the right page is a body paragraph titled, "Black Sabbaths, Sabbath Bloody Sabbath."'
     size: 1
   - src: "project_4.png"
     alt: 'The spread of a spiral bound book. On the left page is a collage of medieval manuscripts and art of a unicorn. The word "Four," reads in bold lettering. On the right page is an image of a sword in a stone and the bold lettering that reads, Fantasy Influence."'
     size: 1
 ---
 
-_Little Letters_ is a project designed to revive the joy of sending handwritten notes to the people who matter most. Whether it’s a quick hello or a thoughtful message, Little Letters offers a charming collection of pocket-sized cards and full-sized stationery to help you stay connected in a more personal way. Each card celebrates everyday little joys—those small, happy moments that make life sweet. Alongside the cards, a vending machine prototype acts as an installation piece—designed to pop up at events or venues and share the brand in an interactive, memorable way. Thoughtfully designed and easy to share, these little notes make everyday moments feel meaningful again.
+Sometimes, you’re able to tell a band’s genre based on their logo alone. This is especially the case with heavy metal. During my early research into the genre’s album covers and band logos, I had a question: Why is blackletter so common in metal music? 
+
+This book contains a brief overivew of blackletter history and takes an extensive look at the music, lyrics, and themes of a selection of metal bands that utilize blackletter in their design. The inspiration behind these design decisions tends to be connected to genre trends, informed by fantasy, religion, and history. Each of these influences are discussed in in this book, highlighting intersections between typography, visual culture, and metal music. 
 
