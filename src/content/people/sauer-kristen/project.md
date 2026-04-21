@@ -5,7 +5,7 @@ location: Bayport, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 weblink: https://splitli.framer.website/
-portfolio: kristensauer.works
+portfolio: https://kristensauer.works/
 bio: |
   Kristen Sauer is a graduating senior from SUNY New Paltz majoring in Graphic Design. Her focus is on web design, UI/UX design, and brand identity. She strives to create engaging experiences for users through her work,
   which is largely inspired from her love of fitness and wellness. When Kristen’s not designing, you can find her at the gym, walking aimlessly to hatch eggs on Pokémon Go, or cooking up a new Instagram recipe.

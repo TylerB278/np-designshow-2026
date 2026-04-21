@@ -6,7 +6,7 @@ headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
 weblink: https://2026show.newpaltz.design/
-portfolio: maddiehickey.com
+portfolio: https://maddiehickey.com/
 bio: |
   Maddie is a graduating student from Endicott, New York who embraces color, abstraction and art, through different medias whether it be paper, motion or a digital medium.
   In her free time, you can find her watching movies, listening to music or drawing different types of lines.  

@@ -6,7 +6,7 @@ headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
 weblink: https://2026show.newpaltz.design/
-portfolio: https://2026show.newpaltz.design/
+portfolio: http://fwvisuals.com/
 bio: |
   Faith Wilson is a designer from Chester, NY whose interests live at the intersection of storytelling and emotion. Guided by curiosity and a strong passion for creation, she often uses music as a foundation for her ideas,
   letting it influence both process and outcome. Her work focuses on translating feeling into physical form to create content that exists beyond the screen. She approaches design as something to be felt as much as it is seen. 
