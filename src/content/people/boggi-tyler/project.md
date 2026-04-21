@@ -31,7 +31,7 @@ images:
     size: 1
 ---
 
-Designing for competitive gaming, or Esports brings many unique challenges. In collegiate spaces, Esports sits between traditional athletics or students clubs and is not always well-funded or positioned. Designing for Esports requires a broad range of skills, including experiential design, 3D graphics, animation, and typography. At the same time, it offers boundless opportunities to express your creativity in the fast-paced and growing world of competitve gaming. 
+Designing for competitive gaming, or Esports, brings many unique challenges. These can range from confusion in collegiate spaces, to lack of funding, to much more. Esports design requires a broad range of general design skills, on top of some unique skills like event design, 3D compositing and organizational branding. At the same time though, the industry offers boundless opportunities to express your creativity in the fast-paced and growing world of competitive gaming.
 
 **Esports Visualized** is a project about designing for Esports through focused case studies of real applications. The project’s [website](https://esports-visualized.netlify.app/) features in-depth interviews with experts, and an introduction to the industry and what it has to offer. From the challenges to the opportunities, come and explore the wonderful world of designing for Esports with Esports Visualized! 
 
