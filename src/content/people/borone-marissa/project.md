@@ -1,5 +1,5 @@
 ---
-name: Marissa Barone
+name: Marissa Borone
 pronouns: they/them/theirs
 location: East Meadow, NY
 headshot: "headshot_1.png"
