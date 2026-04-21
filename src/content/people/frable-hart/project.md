@@ -2,7 +2,7 @@
 name: Hart Frable
 pronouns: she/her
 location: Cooperstown, NY
-headshot: "headshot_1.png"
+headshot: "headshot_3.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
 weblink: fortheloveoforange.com
