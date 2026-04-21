@@ -27,4 +27,4 @@ images:
 
 While working on this project a lot of problems arose that needed a specific skill set of a designer. How problems were handled, how time was managed, as well as prop production, storyboarding and color theory all benefited from a designer’s perspective. This project provides documentation on the pre-production, production and post production of The Chet Show.  
 
-Visit the website at: (thechetshow.com)[http://thechetshow.com/]. 
+Visit the website at: [thechetshow.com](http://thechetshow.com/). 

@@ -30,6 +30,6 @@ images:
 
 We celebrate the big moments like graduations, birthdays, and major milestones, but the truth is that most of our growth happens in the small victories we don’t stop to notice. If you only focus on big achievements, it’s easy to feel like nothing you’re doing really counts.
 
-I realized people need a reminder to pause and recognize that they are already in a good place. The Progress Project is a growing collection of community responses to the prompt, “I am proud of myself for…”. These responses come together as an interactive installation that shows what progress actually looks like. It also creates a sense of connection, helping people see they are not alone in what they’re working through.
+I realized people need a reminder to pause and recognize that they are already in a good place. **The Progress Project** is a growing collection of community responses to the prompt, “I am proud of myself for…”. These responses come together as an interactive installation that shows what progress actually looks like. It also creates a sense of connection, helping people see they are not alone in what they’re working through.
 
 The installation first took place on April 8, 2026, in the Sojourner Truth Library, where responses were collected and connections were made. It grounded people in the idea that what they are doing is worth celebrating. The project now lives online, extending its message to a wider audience.
