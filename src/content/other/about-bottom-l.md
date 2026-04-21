@@ -27,6 +27,8 @@
 - Sarah Heitmeyer, Adjunct Instructor
 - Aaron Nelson, Associate Professor, Program Director (Fall 25)
 - Kat Wilson, Director, Hudson Valley Additive Manufacturing Center
+- Jake Pennisi, Adjunct Instructor
+- Nic O'Connor, Adjunct Instructor
 
 ### Additional Thanks to
 
