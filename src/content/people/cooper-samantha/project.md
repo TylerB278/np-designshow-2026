@@ -6,7 +6,7 @@ headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
 weblink: https://gd.newpaltz.edu/coopers/
-portfolio: https://2026show.newpaltz.design/
+portfolio: https://cooperscreatives.com 
 bio: |
   Samantha is an aspiring creative who can’t seem to nail down just one thing she likes to do. She spends her time illustrating, crafting, writing, doing a splash of acting, and of course,
   graphic designing! Her biggest inspiration for her artwork is often her family, pets or personal experiences.

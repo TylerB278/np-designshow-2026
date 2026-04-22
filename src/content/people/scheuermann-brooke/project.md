@@ -6,7 +6,7 @@ headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
 weblink: https://2026show.newpaltz.design/
-portfolio: https://katiehumphrey601.myportfolio.com
+portfolio: https://www.linkedin.com/in/brooke-scheuermann-a136322b2?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 bio: |
   Brooke Scheuermann is a graduating senior from Sparrow Bush, NY interested in print design and branding. She is drawn to expressive uses of color and designs that feel inclusive and accessible, aiming to make design feel open to everyone.
 

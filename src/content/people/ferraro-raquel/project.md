@@ -6,7 +6,7 @@ headshot: "headshot-1.png"
 headshotAlt: "headshot-2.png"
 thesisweb: hide
 weblink: https://2026show.newpaltz.design/
-portfolio: https://raquelferraro-com.l.ink/
+portfolio: https://raquelferraro.com
 bio: |
   Raquel is a Graphic Design major graduating this fall from SUNY New Paltz. She has an interest in editorial design, branding design and illustration. She enjoys hiking, video games, music and drawing in her free time.
 

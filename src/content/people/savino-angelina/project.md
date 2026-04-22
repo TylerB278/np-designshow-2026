@@ -6,7 +6,7 @@ headshot: "headshot_1.png"
 headshotAlt: "headshot_3.png"
 thesisweb: hide
 weblink: https://2026show.newpaltz.design/
-portfolio: https://angelinasav-com.l.ink/
+portfolio: https://angelinasav.com
 bio: |
   Angelina Savino is from New York and is currently completing her BFA at SUNY New Paltz. She is drawn to things that feel strange or unexpected, often pulling inspiration from fantasy, music, and the small,
   random details she encounters day to day. She tends to fall down creative rabbit holes, whether in photography, painting, or niche internet finds.

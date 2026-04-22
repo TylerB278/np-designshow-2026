@@ -5,7 +5,7 @@ location: Cooperstown, NY
 headshot: "headshot_3.png"
 headshotAlt: "headshot_2.png"
 thesisweb: hide
-weblink: fortheloveoforange.com
+weblink: https://fortheloveoforange.com
 portfolio: https://hartfrable.com/
 bio: |
   Hart Frable, from Otsego County, NY, enjoys print design, letterpress and typesetting, and illustration. She loves to read, loves Star Wars, and enjoys relaxing with her two cats.
