@@ -21,15 +21,17 @@ const peopleSorted = people.sort((a, b) => {
               <Image
                 class="people-card-image"
                 src={person.data.headshot}
+                widths={[400, 600, 800]}
+                sizes={`(max-width: 420px) 400px, (max-width: 620px) 600px, 800px`}
                 alt={""}
-                width={450}
                 transition:name={`photo-${person.id}`}
               />
               <Image
                 class={`people-card-image-alt ${person.data.name}`}
                 src={person.data.headshotAlt}
+                widths={[400, 600, 800]}
+                sizes={`(max-width: 420px) 400px, (max-width: 620px) 600px, 800px`}
                 alt={""}
-                width={600}
               />
             </div>
             <p class="people-card-name">

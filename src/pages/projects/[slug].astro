@@ -33,7 +33,8 @@ const firstName = names.join(" ");
           transition:name={`thumb-${projectSlug}`}
           alt={entry.data.thumbnail.alt}
           src={entry.data.thumbnail.src}
-          width={1000}
+          widths={[400, 600, 1000]}
+          sizes={`(max-width: 380px) 400px, (max-width: 580px) 600px, 1000px`}
           quality={90}
         />
           <!--  -->

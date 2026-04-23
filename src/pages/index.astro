@@ -15,13 +15,34 @@ import HeaderBG from "../assets/site-header-bg.webp";
 <Layout pageTitle="Home">
   <section class="welcome">
     <div class="title-box">
-      <Image src={HeaderLong} alt="header image" class="headerImg long"/>
-      <Image src={HeaderSquare} alt="header image" class="headerImg square"/>
-      <Image src={HeaderTall} alt="header image" class="headerImg tall"/>
+      <Image 
+        src={HeaderLong} 
+        alt="header image" 
+        class="headerImg long"
+        width={1600}
+      />
+      <Image 
+        src={HeaderSquare} 
+        alt="header image" 
+        class="headerImg square"
+        width={1000}
+      />
+      <Image 
+        src={HeaderTall} 
+        alt="header image" 
+        class="headerImg tall"
+        width={600}
+      />
     </div>
   </section>
   <div class="welcomeBG">
-    <Image src={HeaderBG} alt="header image" class="bg-head"/> 
+    <Image 
+      src={HeaderBG} 
+      alt="header image" 
+      class="bg-head"
+      widths={[500, 1000, 1600]}
+      sizes={`(max-width: 600px) 500px, (max-width: 970px) 1000px, 1600px`}
+    /> 
   </div>
   <h1 class="big-header anti-rotate star-after">PROJECTS</h1>
   <ProjectLister />
