@@ -13,7 +13,7 @@ bio: |
 
 title: "Above Average"
 thumbnail:
-  src: "project_1.png"
+  src: "project_4.png"
   alt: "A poster showing graphs of NBA players"
 images:
   - src: "project_2.png"
@@ -22,7 +22,7 @@ images:
   - src: "project_3.png"
     alt: "Graphs and a spreadsheet about NBA stats and their variance from the mean"
     size: 1
-  - src: "project_4.png"
+  - src: "project_1.png"
     alt: 'A picture showing NBA players, a graph with randomly placed data points, and the title "Above Average"'
     size: 1
   - src: "project_5.png"

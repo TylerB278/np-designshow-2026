@@ -1,5 +1,5 @@
 ---
-name: Michael Losquardo
+name: Michael Losquadro
 pronouns: he/him
 location: Hicksville, NY
 headshot: "headshot_3.png"
