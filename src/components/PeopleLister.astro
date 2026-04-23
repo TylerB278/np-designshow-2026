@@ -46,10 +46,6 @@ const peopleSorted = people.sort((a, b) => {
   .person-contain{ } 
 
   .portrait{
-    /* outline-width: 3px;
-    outline-bottom-width: 0px;
-    outline-style: solid;
-    outline-color: var(--color-accent-a); */
     background: linear-gradient(var(--color-background), var(--color-accent-a));
   }
 
@@ -63,15 +59,14 @@ const peopleSorted = people.sort((a, b) => {
   }
 
   @media (min-width: 791px) and (max-width: 1155px) {
-    .person-contain:nth-child(even){
-      /* transform: translateY(60px); */
-    }
+
+  }
+
+  .person-contain:nth-child(even) .portrait{
+    background: linear-gradient(var(--color-background), var(--color-accent-c));
   }
 
   @media (min-width: 1156px){
-    .portrait:nth-child(2n + 0){
-      background: linear-gradient(var(--color-background), var(--color-accent-c));
-    }
     .person-contain:nth-child(3n + 0){
       transform: translateY(120px);
     }
