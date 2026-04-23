@@ -4,8 +4,7 @@ pronouns: she/her
 location: Cooperstown, NY
 headshot: "headshot_3.png"
 headshotAlt: "headshot_2.png"
-thesisweb: hide
-weblink: https://fortheloveoforange.com
+weblink: https://hartfrable.com/for-the-love-of-orange/
 portfolio: https://hartfrable.com/
 bio: |
   Hart Frable, from Otsego County, NY, enjoys print design, letterpress and typesetting, and illustration. She loves to read, loves Star Wars, and enjoys relaxing with her two cats.
@@ -18,6 +17,9 @@ thumbnail:
 images:
   - src: "project_2.png"
     alt: 'Panel 1 (Solid Color Field): Features a gradient representing conceptual "bright orange." Panel 2 (Curated Collage): Displays a collage of specific artworks and objects from the exhibition that pertain to "bright orange." with the labels below. Panel 3 (Solid Color Field): Features a gradient representing conceptual "brown orange" (more muted and earthy tones). Panel 4 (Curated Collage): Displays specific artworks and objects from the exhibition that pertain to "brown orange," with the labels below.'
+    size: 2
+  - src: "project_3.jpeg"
+    alt: 'Exhibition photo of "for the love of organge" displayed in Sojourner Truth Liabrary'
     size: 2
 ---
 
