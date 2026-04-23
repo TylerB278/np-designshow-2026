@@ -32,6 +32,6 @@
 
 ### Colophon
 
-This site uses the fonts **Rustica** from [TipoType](https://tipotype.com/) and **Beastly** by [James Edmondson](https://fonts.adobe.com/designers/james-edmondson) from [OH no Type Co.](https://ohnotype.co/).
+This site uses the fonts **Rustica** from [TipoType](https://tipotype.com/rustica), **Beastly** by [James Edmondson](https://fonts.adobe.com/designers/james-edmondson) from [OH no Type Co.](https://ohnotype.co/fonts/beastly) and **Suttura** by [Octavio Pardo](https://fonts.adobe.com/designers/octavio-pardo) from the [Rosetta Type Foundry](https://rosettatype.com/Sutturah).
 </br>This site is built using [Astro](https://astro.build/).
 </br>See the site's source code on [GitHub](https://github.com/TylerB278/np-designshow-2026).
