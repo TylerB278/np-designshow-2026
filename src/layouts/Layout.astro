@@ -60,6 +60,14 @@ import { ClientRouter } from "astro:transitions";
     font-style: normal;
   }
 
+  /* h1{
+    color: var(--color-background);
+    background-color: var(--color-accent-c);
+    padding: 20px;
+    width: fit-content;
+    rotate: -3deg;
+  } */
+
   * {
   }
   html {
@@ -70,8 +78,20 @@ import { ClientRouter } from "astro:transitions";
 
   .big-header {
     font-size: 4rem;
+    letter-spacing: 0.02rem;
     font-family: "Rustica", serif;
-    font-weight: 700;
+    font-weight: 900;
+    color: var(--color-background);
+    background-color: var(--color-accent-c);
+    padding: 20px;
+    width: fit-content;
+    rotate: -3deg;
+  }
+
+  @media (max-width: 500px){
+    .big-header{
+      font-size: 3rem;
+    }
   }
 
   main {

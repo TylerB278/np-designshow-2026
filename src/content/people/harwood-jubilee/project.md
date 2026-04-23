@@ -1,11 +1,10 @@
 ---
 name: Jubilee Harwood
-pronouns: he/him
+pronouns: she/her
 location: Queensbury, NY
 headshot: "headshot_1.png"
 headshotAlt: "headshot_2.png"
-thesisweb: hide
-weblink: https://2026show.newpaltz.design/
+weblink: https://jubileeharwood.myportfolio.com/backyard-beetles
 portfolio: https://jubileeharwood.myportfolio.com/
 bio: |
   Jubilee is a graduating senior from Queensbury, New York. Her design interests include package design and illustration. Jubilee incorporates her love of illustration into many of her design works, including her thesis project. She also enjoys blending physical art and digital art, which is prevalent in her thesis project and gives it a unique, personal touch. In her spare time, Jubilee enjoys eating ice cream with her teeth or breaking her phone.

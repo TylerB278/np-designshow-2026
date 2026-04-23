@@ -69,6 +69,9 @@ const peopleSorted = people.sort((a, b) => {
   }
 
   @media (min-width: 1156px){
+    .portrait:nth-child(2n + 0){
+      background: linear-gradient(var(--color-background), var(--color-accent-c));
+    }
     .person-contain:nth-child(3n + 0){
       transform: translateY(120px);
     }
