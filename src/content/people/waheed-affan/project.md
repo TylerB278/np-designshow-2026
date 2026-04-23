@@ -8,7 +8,7 @@ thesisweb: hide
 weblink: https://2026show.newpaltz.design/
 portfolio: https://affanwaheed.com/
 bio: |
-  Olivia is an Oneonta native whose design interests lie in visual identity, user experience, and all things typographical. She's driven by a lifelong passion for storytelling and values design as a tool for exploring new perspectives. When she's not busy crunching the numbers for a perfect document grid, you can find Olivia crocheting a sweater, perfecting her cheesy popcorn recipe, or pausing a movie every five minutes to discuss its symbolism.
+  Affan Waheed is a graphic design graduating senior from Poughkeepsie, New York. His design work focuses on illustration, branding, and instructional design. He takes inspiration from fitness, everyday experiences, and making things feel more approachable. When he’s not designing, Affan spends his time with his friends and family and also enjoys a variety of hobbies, including listening to music, exploring new places, and staying active.
 
 title: "miniFit Exercise Card Deck"
 thumbnail:
@@ -23,6 +23,8 @@ images:
     size: 2
 ---
 
-OSPAAAL (the Organization of Solidarity of the People of Asia, Africa and Latin America) was an anti-imperialist coalition formed in 1966 by a group of 82 national governments and liberation movements. They spread their message through a series of posters designed and produced in Cuba, supporting action against systems of oppression. Notably, the designers were free of style restrictions usually placed on propaganda and were allowed to produce uniquely eye-catching images to further their cause. 350 of these posters were created, translated, batch printed, and globally distributed over 53 years of operation.
+**“miniFit”** is a set of instructional exercise cards designed to make fitness feel less intimidating and easier to start, especially for beginners. The idea for this project came after realizing how many people want to go to the gym but feel nervous, judged, or unsure of what they’re doing. I wanted to design something that would help people feel more confident to commit to an exercise routine.
 
-The eclectic design of Cuban posters is undeniably captivating. The format of the work, in addition to the visual technique used by the designers, created an effective vehicle for messages of protest and solidarity to travel in. _Solidarity by Design_ aims to show this complexity by creating an interactive gallery of OSPAAAL’s posters. On a surface level, their appearance is visually compelling and requires no explanation to be appreciated; with a healthy dose of historical context, however, viewers can gain a better understanding of the messaging and design approaches behind these posters.
+Each card focuses on a single exercise and breaks it down into simple steps with clear visuals, short instructions, and helpful tips. I used a chibi-style character to make the cards feel more friendly and less overwhelming. I also created a color system based on muscle groups so users can quickly find what they’re looking for. The goal was to keep everything simple and easy to understand at a glance.
+
+This project is about changing how people relate to their fitness environment. I want users to feel more comfortable, more prepared, and more excited about going to the gym. “miniFit” is meant to be something you can carry with you, use anywhere, and come back to without feeling pressured or confused!
