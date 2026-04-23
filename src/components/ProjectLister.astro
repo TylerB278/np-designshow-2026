@@ -26,9 +26,10 @@ const allProjectsSorted = allProjects.sort((a, b) => {
           <article class="project-card">
             <Image
               transition:name={`thumb-${projectSlug}`}
-              width={1000}
+              widths={[400, 600, 1000]}
+              sizes={`(max-width: 420px) 400px, (max-width: 1200px) 600px, 1000px`}
               quality={60}
-              class="project-image"
+              class={`project-image ${project.data.name}`}
               src={project.data.thumbnail.src}
               alt=""
             />
@@ -152,7 +153,10 @@ const allProjectsSorted = allProjects.sort((a, b) => {
     height: auto;
     aspect-ratio: 192 / 126;
     object-fit: cover;
-    background-color: var(--color-accent-a);
+    background-color: var(--color-background);
+  }
+  .Charlie{
+    background-color: none;
   }
   .person-name {
     font-size: 1.5rem;
