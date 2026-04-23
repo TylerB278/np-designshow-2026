@@ -101,23 +101,25 @@ const peopleSorted = people.sort((a, b) => {
     top: 0;
     opacity: 0;
   }
-  .person-contain:hover .people-card-image-alt,
-  .person-contain:focus-visible .people-card-image-alt {
-    opacity: 1;
-    transform: scale(115%);
-    
-  }
-  .person-contain:hover .people-card-image,
-  .person-contain:focus-visible .people-card-image{
-    opacity: 0;
-    transform: scale(115%);
+
+  @media (min-width: 600px){
+    .person-contain:hover .people-card-image-alt,
+    .person-contain:focus-visible .people-card-image-alt {
+      opacity: 1;
+      transform: scale(115%);
+      
+    }
+    .person-contain:hover .people-card-image,
+    .person-contain:focus-visible .people-card-image{
+      opacity: 0;
+      transform: scale(115%);
+    }
+    .people-card:hover .people-card-name,
+    .people-card:focus-visible .people-card-name {
+      color: var(--color-accent-a);
+    }
   }
 
-
-  .people-card:hover .people-card-name,
-  .people-card:focus-visible .people-card-name {
-    color: var(--color-accent-a);
-  }
   .people-card-name {
     font-family: "Rustica", serif;
     font-weight: 600;
