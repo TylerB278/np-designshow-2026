@@ -19,7 +19,7 @@ images:
     alt: 'Panel 1 (Solid Color Field): Features a gradient representing conceptual "bright orange." Panel 2 (Curated Collage): Displays a collage of specific artworks and objects from the exhibition that pertain to "bright orange." with the labels below. Panel 3 (Solid Color Field): Features a gradient representing conceptual "brown orange" (more muted and earthy tones). Panel 4 (Curated Collage): Displays specific artworks and objects from the exhibition that pertain to "brown orange," with the labels below.'
     size: 2
   - src: "project_3.jpeg"
-    alt: 'Exhibition photo of "for the love of organge" displayed in Sojourner Truth Liabrary'
+    alt: 'Exhibition photo of "for the love of organge" displayed in Sojourner Truth Library'
     size: 2
 ---
 
